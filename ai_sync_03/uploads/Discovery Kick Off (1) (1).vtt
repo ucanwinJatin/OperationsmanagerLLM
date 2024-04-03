@@ -1,0 +1,5155 @@
+WEBVTT
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/22-0
+00:00:04.134 --> 00:00:04.424
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/92-0
+00:00:04.434 --> 00:00:07.737
+So, David, how would you want to
+run this like you know can we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/92-1
+00:00:07.737 --> 00:00:10.831
+can start by sharing the use
+case story that we got and we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/92-2
+00:00:10.831 --> 00:00:14.186
+could walk if that's that's the
+that's the way that you want to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/52-0
+00:00:12.014 --> 00:00:12.174
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/92-3
+00:00:14.186 --> 00:00:17.227
+go through we'll we'll be happy
+to do that or do you have
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/92-4
+00:00:17.227 --> 00:00:20.426
+anything any other inputs from
+that standpoint as to how you
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/92-5
+00:00:20.426 --> 00:00:21.894
+want to start the discovery.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/93-0
+00:00:22.454 --> 00:00:23.454
+No, no.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/113-0
+00:00:23.464 --> 00:00:26.705
+I think going from the use case
+we've sent you, you know, part
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/113-1
+00:00:26.705 --> 00:00:29.124
+especially with with
+transparency in coverage.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/115-0
+00:00:29.134 --> 00:00:30.024
+You're what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/136-0
+00:00:30.034 --> 00:00:32.656
+You're not going to have is a
+whole bunch of folks on our side
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/136-1
+00:00:32.656 --> 00:00:34.154
+that have thought through this
+one.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/142-0
+00:00:34.524 --> 00:00:36.704
+Umm uh.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/149-0
+00:00:36.744 --> 00:00:40.204
+It's uhm, you know one SEC.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/167-0
+00:00:47.804 --> 00:00:52.944
+Uh, it's an unfamiliar area for
+a lot of us as well.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/192-0
+00:00:53.114 --> 00:00:56.329
+You know, I think between myself
+and Dave, Schweppe will probably
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/192-1
+00:00:56.329 --> 00:00:59.204
+doing be doing some discovery
+with you in real time on it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/196-0
+00:00:59.224 --> 00:00:59.994
+Sure, sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/201-0
+00:00:59.554 --> 00:01:01.284
+Umm, it was.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/209-0
+00:01:03.954 --> 00:01:05.244
+It was an interesting one for
+us.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/228-0
+00:01:05.254 --> 00:01:08.359
+Just because it is kind of a new
+and novel data set that would
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/228-1
+00:01:08.359 --> 00:01:09.444
+push the organization.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/264-0
+00:01:09.454 --> 00:01:12.928
+So with that, you may also be
+getting a little bit less
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/264-1
+00:01:12.928 --> 00:01:16.712
+specific expertise on this one
+compared to the one we've got
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/264-2
+00:01:16.712 --> 00:01:20.185
+tomorrow around you know
+customer specific data that we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/264-3
+00:01:20.185 --> 00:01:21.054
+wanna feed in.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/269-0
+00:01:23.874 --> 00:01:24.664
+Got got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/275-0
+00:01:24.714 --> 00:01:25.444
+Got it. David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/280-0
+00:01:25.494 --> 00:01:26.124
+So would it?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/323-0
+00:01:26.134 --> 00:01:28.823
+Would it make sense if we walk
+through the user story that we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/323-1
+00:01:28.823 --> 00:01:31.598
+received and and get your inputs
+and I'll I'll present the user
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/311-0
+00:01:29.574 --> 00:01:30.494
+Sure. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/323-2
+00:01:31.598 --> 00:01:34.244
+story and then we could probably
+take it forward from there.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/336-0
+00:01:34.254 --> 00:01:35.054
+Would that make sense to you?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/333-0
+00:01:35.194 --> 00:01:35.604
+Sounds good.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/344-0
+00:01:35.614 --> 00:01:36.414
+Yeah, absolutely.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/338-0
+00:01:36.414 --> 00:01:36.724
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/346-0
+00:01:36.794 --> 00:01:37.964
+Let me just present it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/366-0
+00:01:38.394 --> 00:01:41.078
+I'll just go off camera just so
+that like I'm presenting, so I
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/366-1
+00:01:41.078 --> 00:01:42.654
+wouldn't know any who is talking
+so.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/374-0
+00:01:48.744 --> 00:01:49.824
+It's my screen visible.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/376-0
+00:01:50.934 --> 00:01:51.264
+This is, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/379-0
+00:01:52.884 --> 00:01:55.334
+OK, sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/384-0
+00:01:55.424 --> 00:01:56.964
+So David, over to you.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/389-0
+00:02:00.654 --> 00:02:01.744
+Uh umm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/395-0
+00:02:02.394 --> 00:02:03.064
+So do you mean?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/408-0
+00:02:03.074 --> 00:02:06.224
+I mean, make sure I'm clear as
+to what the expectation is.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/413-0
+00:02:06.234 --> 00:02:07.144
+We read through this.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/448-0
+00:02:07.154 --> 00:02:10.534
+Or are there certain areas that
+three year uh.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/426-0
+00:02:07.804 --> 00:02:08.614
+No, no, no, sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/429-0
+00:02:08.624 --> 00:02:09.194
+It's my.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/433-0
+00:02:09.254 --> 00:02:09.614
+My bad.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/439-0
+00:02:09.624 --> 00:02:09.974
+Now I'll.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/442-0
+00:02:09.984 --> 00:02:10.664
+I'll set the agenda.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/464-0
+00:02:10.674 --> 00:02:13.533
+So basically what we did was we
+understood the requirements,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/464-1
+00:02:13.533 --> 00:02:13.814
+David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/485-0
+00:02:13.824 --> 00:02:18.175
+And you know what we have done
+is we have started exploring the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/485-1
+00:02:18.175 --> 00:02:22.526
+three datasets that were given
+to us, the HHC and UHC data set,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/480-0
+00:02:18.914 --> 00:02:19.074
+Yep.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/485-2
+00:02:22.526 --> 00:02:22.934
+right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/503-0
+00:02:23.064 --> 00:02:25.991
+And then we based on this, we
+understand we started looking at
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/503-1
+00:02:25.991 --> 00:02:26.734
+the data schema.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/538-0
+00:02:26.744 --> 00:02:30.102
+We understood to certain extent
+what each data schema is, so I I
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/538-1
+00:02:30.102 --> 00:02:33.253
+do understand that as part of
+the discovery exercise, we may
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/538-2
+00:02:33.253 --> 00:02:35.784
+not be able to cover every
+single aspect of this
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/538-3
+00:02:35.784 --> 00:02:36.404
+requirement.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/580-0
+00:02:36.504 --> 00:02:40.916
+But what I wanted to understand
+was, you know from the the files
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/580-1
+00:02:40.916 --> 00:02:44.784
+that we have seen like for
+example HCSC was a large file
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/580-2
+00:02:44.784 --> 00:02:48.653
+and we were able to fairly
+understand certain aspects of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/580-3
+00:02:48.653 --> 00:02:49.264
+the file.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/609-0
+00:02:49.354 --> 00:02:54.544
+But you would see file in itself
+has nearly about 780 to 800 in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/609-1
+00:02:54.544 --> 00:02:59.004
+different file data types or
+file data schemas, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/686-0
+00:02:59.054 --> 00:03:02.428
+So what we also wanted to
+understand was if we can get
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/686-1
+00:03:02.428 --> 00:03:06.232
+certain guidance from you in
+terms of what does this UHC file
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/686-2
+00:03:06.232 --> 00:03:09.790
+have and and probably what are
+some of the different data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/686-3
+00:03:09.790 --> 00:03:13.717
+schemas that we could get some
+advice on that was one aspect of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/686-4
+00:03:13.717 --> 00:03:17.398
+it, but I I do understand that
+you you've already mentioned
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/686-5
+00:03:17.398 --> 00:03:20.404
+that this is also a fairly new
+use case for you.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/692-0
+00:03:20.564 --> 00:03:22.254
+So I I would be happy to.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/694-0
+00:03:20.744 --> 00:03:20.904
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/696-0
+00:03:22.544 --> 00:03:22.974
+We can.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/724-0
+00:03:22.984 --> 00:03:27.192
+We can do one thing right, like
+if this is a, this is a is a use
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/724-1
+00:03:27.192 --> 00:03:30.494
+case that we probably have to Co
+explore our code.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/734-0
+00:03:30.504 --> 00:03:33.394
+Discover that that we can do it
+together, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/779-0
+00:03:33.664 --> 00:03:36.452
+But if for today's session, if
+you want today's session to be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/779-1
+00:03:36.452 --> 00:03:39.241
+more focusing on the other use
+case, the patient satisfaction
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/779-2
+00:03:39.241 --> 00:03:41.670
+use case which you are
+comfortable with, we can start
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/779-3
+00:03:41.670 --> 00:03:43.694
+with that also David, if that
+works for you.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/789-0
+00:03:45.954 --> 00:03:47.494
+Uh, yeah, that's fine.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/786-0
+00:03:48.924 --> 00:03:49.214
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/832-0
+00:03:49.264 --> 00:03:52.517
+I mean I I mean what we could do
+is then for tomorrow we can use
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/832-1
+00:03:52.517 --> 00:03:55.620
+this particular use case so that
+we can also show you what we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/832-2
+00:03:55.620 --> 00:03:58.623
+have understood as part of the
+data schema and we can share
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/832-3
+00:03:58.623 --> 00:03:59.074
+with you.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/855-0
+00:03:59.204 --> 00:04:01.728
+But for today, if you want to,
+you want to start with the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/855-1
+00:04:01.728 --> 00:04:04.513
+patient satisfaction use case,
+that will be that will be great,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/855-2
+00:04:04.513 --> 00:04:04.774
+David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/864-0
+00:04:07.664 --> 00:04:10.244
+Well, for the patient's, OK, so
+for the.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/882-0
+00:04:13.524 --> 00:04:16.953
+Alright, so I I'm sorry I maybe
+I misinterpreted what you were
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/882-1
+00:04:16.953 --> 00:04:17.334
+saying.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/903-0
+00:04:17.344 --> 00:04:19.544
+So are we suggesting we flip
+these two sessions?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/896-0
+00:04:20.384 --> 00:04:20.774
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/901-0
+00:04:20.784 --> 00:04:21.254
+Yes, David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/963-0
+00:04:21.264 --> 00:04:24.889
+So that was one one thought
+because because I think what
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/963-1
+00:04:24.889 --> 00:04:28.895
+what I am also getting as a as
+an insight is you know this UHC
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/963-2
+00:04:28.895 --> 00:04:32.774
+use case, the user story. We
+have understood the user story.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/974-0
+00:04:32.904 --> 00:04:35.681
+But we also wanted to know if
+there is anything that you can
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/974-1
+00:04:35.681 --> 00:04:38.549
+provide us as guidance in you
+know in terms of direction, what
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/974-2
+00:04:38.549 --> 00:04:39.414
+should we be doing?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1000-0
+00:04:39.424 --> 00:04:43.285
+Because what we felt was
+understanding the data schema is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1000-1
+00:04:43.285 --> 00:04:46.614
+1 but being able to get what is
+an outcome right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1011-0
+00:04:46.624 --> 00:04:48.834
+Like what are some of the
+dashboards that you want?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1023-0
+00:04:48.914 --> 00:04:50.714
+How would you want the plans to
+be compared?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1050-0
+00:04:51.434 --> 00:04:54.996
+What could be the what could be
+the type of different types of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1050-1
+00:04:54.996 --> 00:04:58.162
+charts that you might be looking
+in terms of price plan
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1050-2
+00:04:58.162 --> 00:04:58.784
+comparison?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1072-0
+00:04:58.974 --> 00:05:01.536
+Those are some of the insights
+that we kind of wanted as part
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1072-1
+00:05:01.536 --> 00:05:03.024
+of the discovery for this use
+case.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1099-0
+00:05:05.124 --> 00:05:08.104
+But if you feel that we should
+take sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1081-0
+00:05:06.034 --> 00:05:06.304
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1091-0
+00:05:06.314 --> 00:05:07.984
+So with the, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1130-0
+00:05:07.994 --> 00:05:11.956
+So with that and then we can and
+and part of the the SOW we sent
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1130-1
+00:05:11.956 --> 00:05:15.858
+over had had some of that around
+what are some of the analytics
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1130-2
+00:05:15.858 --> 00:05:17.504
+we wanna do on top of this?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1143-0
+00:05:17.514 --> 00:05:19.154
+I don't know if that made its
+way.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1138-0
+00:05:18.314 --> 00:05:18.904
+Right, yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1146-0
+00:05:21.134 --> 00:05:21.424
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1148-0
+00:05:21.424 --> 00:05:21.714
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1150-0
+00:05:21.434 --> 00:05:21.904
+Playing better?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1158-0
+00:05:21.724 --> 00:05:25.104
+So Babu, yeah, so we we did.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1164-0
+00:05:23.624 --> 00:05:24.244
+Yeah, go ahead.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1166-0
+00:05:25.114 --> 00:05:25.944
+We did look at it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1175-0
+00:05:26.014 --> 00:05:29.034
+We created certain mock mock
+screens around it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1178-0
+00:05:29.044 --> 00:05:29.534
+David, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1187-0
+00:05:29.544 --> 00:05:31.384
+Like uh, so we will probably
+share.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1238-0
+00:05:31.394 --> 00:05:35.034
+We have already shared that with
+as part of the proposal, but
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1238-1
+00:05:35.034 --> 00:05:38.264
+what we also wanted to
+understand was, as part of this
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1238-2
+00:05:38.264 --> 00:05:41.787
+is, is this exactly what you
+want or is there anything else
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1238-3
+00:05:41.787 --> 00:05:44.958
+that you want to probably
+explore is what I wanted to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1238-4
+00:05:44.958 --> 00:05:45.604
+understand.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1261-0
+00:05:45.614 --> 00:05:48.694
+We wanted to understand as well,
+David, sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1276-0
+00:05:46.374 --> 00:05:49.511
+So here's here's what I would
+say is these these analytic
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1276-1
+00:05:49.511 --> 00:05:52.864
+insights here below are kind of
+think of him as a first pass.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1297-0
+00:05:52.874 --> 00:05:56.249
+Got check that we have an
+underlying data asset on top of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1294-0
+00:05:55.924 --> 00:05:56.174
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1297-1
+00:05:56.249 --> 00:05:57.704
+which I can do analytics.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1348-0
+00:05:58.034 --> 00:06:01.872
+So yes, there probably is going
+to be more use cases after this,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1309-0
+00:05:58.084 --> 00:05:58.344
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1348-1
+00:06:01.872 --> 00:06:05.532
+but I did at the end of the day
+the the goal of engaging with
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1348-2
+00:06:05.532 --> 00:06:09.311
+you guys on this one isn't for
+the endless number of dashboards
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1348-3
+00:06:09.311 --> 00:06:10.374
+we can put on top.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1356-0
+00:06:10.734 --> 00:06:12.144
+It really is an understanding.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1371-0
+00:06:12.154 --> 00:06:15.474
+How do we take disparate data
+sets and normalize them into a
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1371-1
+00:06:15.474 --> 00:06:16.454
+usable data model?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1374-0
+00:06:16.924 --> 00:06:17.474
+That's the.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1383-0
+00:06:17.484 --> 00:06:18.454
+That's the sticky wicket.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1384-0
+00:06:19.374 --> 00:06:20.074
+OK, got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1387-0
+00:06:20.274 --> 00:06:21.524
+OK, fine.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1400-0
+00:06:21.694 --> 00:06:25.594
+So so there are two ways to go
+through this, David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1433-0
+00:06:25.604 --> 00:06:28.734
+One is we can share what we have
+understood so far on the data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1433-1
+00:06:28.734 --> 00:06:31.616
+sets and then come out with
+certain questions and then we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1433-2
+00:06:31.616 --> 00:06:33.654
+can walk through those
+questions, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1473-0
+00:06:33.664 --> 00:06:37.797
+So that is one approach,
+particularly that that was one
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1444-0
+00:06:35.234 --> 00:06:35.404
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1473-1
+00:06:37.797 --> 00:06:42.594
+thing that we wanted to discuss
+because like we found the HC use
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1473-2
+00:06:42.594 --> 00:06:47.244
+case was pretty HCSC files were
+pretty straightforward for us.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1499-0
+00:06:47.254 --> 00:06:51.417
+But the UHC files had various
+different combinations, various
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1499-1
+00:06:51.417 --> 00:06:55.514
+different data schemas, then one
+you know in in one data set
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1499-2
+00:06:55.514 --> 00:06:55.984
+itself.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1555-0
+00:06:56.054 --> 00:06:59.214
+So we wanted to probably
+understand if you want all of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1555-1
+00:06:59.214 --> 00:07:02.374
+those data schemas to be
+implemented or pulled in into
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1555-2
+00:07:02.374 --> 00:07:05.936
+the data platform, or can we,
+for the purpose of the POC, can
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1555-3
+00:07:05.936 --> 00:07:09.383
+we add only certain file types
+and if so, what would be the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1555-4
+00:07:09.383 --> 00:07:11.854
+file types that you are looking
+at, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1603-0
+00:07:11.864 --> 00:07:15.108
+So those were some questions
+that we had, maybe these are not
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1603-1
+00:07:15.108 --> 00:07:18.300
+for discovery, this could be for
+design session as well, but
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1589-0
+00:07:17.754 --> 00:07:17.954
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1603-2
+00:07:18.300 --> 00:07:21.544
+wanted to understand if you had
+some thoughts on that, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1685-0
+00:07:21.554 --> 00:07:25.047
+So, but that was the reason,
+maybe one another way that we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1685-1
+00:07:25.047 --> 00:07:28.599
+can do is between today and
+tomorrow we could actually come
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1685-2
+00:07:28.599 --> 00:07:32.092
+out with various different
+questions on each of these file
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1685-3
+00:07:32.092 --> 00:07:35.525
+types and then we can go over
+those questions with you in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1685-4
+00:07:35.525 --> 00:07:38.781
+tomorrow's session if you want
+to flip the sessions to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1656-0
+00:07:37.754 --> 00:07:38.344
+Yeah, that's fine.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1669-0
+00:07:38.354 --> 00:07:40.164
+We we can probably probably do
+that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1685-5
+00:07:38.781 --> 00:07:40.084
+tomorrow, right? Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1678-0
+00:07:40.174 --> 00:07:41.334
+We've got Dave Wolfe on now.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1688-0
+00:07:41.344 --> 00:07:42.794
+Who'd be critical for the other
+one, I'd say.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1702-0
+00:07:48.824 --> 00:07:51.834
+Ah ohh course.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1698-0
+00:07:52.214 --> 00:07:52.644
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1703-0
+00:07:52.654 --> 00:07:53.904
+So this is dish, Webby.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1708-0
+00:07:53.914 --> 00:07:54.714
+I'm sorry I'm late.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1723-0
+00:07:55.194 --> 00:07:57.184
+I've got a contractor tearing my
+kitchen apart.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1722-0
+00:07:56.464 --> 00:07:56.784
+Active.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1751-0
+00:07:57.834 --> 00:08:02.286
+I'm so I'm kind of stepping this
+too, but on the tick files are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1751-1
+00:08:02.286 --> 00:08:05.973
+really kind of market market
+standard files that are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1751-2
+00:08:05.973 --> 00:08:07.434
+available now, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1767-0
+00:08:07.444 --> 00:08:09.826
+So you're gonna find their
+formats are gonna be a little
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1767-1
+00:08:09.826 --> 00:08:10.244
+different.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1789-0
+00:08:10.254 --> 00:08:15.691
+I think from file to file I'm
+not sure if the HCSC file in the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1789-1
+00:08:15.691 --> 00:08:17.504
+use case is our spec.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1812-0
+00:08:18.404 --> 00:08:22.734
+What do you think about the use
+cases that are there for, uh,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1812-1
+00:08:22.734 --> 00:08:26.994
+comparison of data you know by
+cost you realization quality.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1828-0
+00:08:27.484 --> 00:08:34.865
+The intent would be in my mind
+to create a set of data that is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1828-1
+00:08:34.865 --> 00:08:36.154
+comparable.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1846-0
+00:08:36.164 --> 00:08:41.932
+Think about the TIF files as umm
+side by side comparisons of our
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1846-1
+00:08:41.932 --> 00:08:43.884
+already existing data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1879-0
+00:08:45.004 --> 00:08:49.361
+So if I had an inpatient cost in
+the tick file, I have an
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1856-0
+00:08:45.544 --> 00:08:45.844
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1879-1
+00:08:49.361 --> 00:08:54.243
+associate in patient cost in the
+medeanalytics file in the lake,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1879-2
+00:08:54.243 --> 00:08:54.694
+right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1921-0
+00:08:54.704 --> 00:08:58.434
+So the concept would be to
+create a bridge between those
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1921-1
+00:08:58.434 --> 00:09:02.426
+two and one of the challenges I
+think you're gonna run into,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1921-2
+00:09:02.426 --> 00:09:06.614
+although I'm not so much of what
+I've read and what I've heard.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1923-0
+00:09:07.014 --> 00:09:07.674
+I'm not.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1951-0
+00:09:07.944 --> 00:09:11.878
+Is that they're all being
+created in their own schemas,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1951-1
+00:09:11.878 --> 00:09:16.234
+and so create that crosswalk and
+then the same, and then that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1951-2
+00:09:16.234 --> 00:09:18.974
+crosswalk creating the same
+hierarchy.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1956-0
+00:09:19.424 --> 00:09:22.114
+So provider facility.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1991-0
+00:09:23.304 --> 00:09:27.581
+Hey, you're whatever those
+hierarchies are that attached
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1991-1
+00:09:27.581 --> 00:09:32.308
+that to that, that one cost or
+that day of utilization or that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/1991-2
+00:09:32.308 --> 00:09:35.384
+that doctor's visit or et
+cetera, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2002-0
+00:09:35.804 --> 00:09:40.444
+So trying to create that bridge,
+is that wolf in Bartley?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2007-0
+00:09:40.454 --> 00:09:41.754
+What you're thinking here?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2013-0
+00:09:43.434 --> 00:09:45.164
+Uh, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2075-0
+00:09:45.174 --> 00:09:49.091
+I mean, I so said differently
+because I use different words is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2075-1
+00:09:49.091 --> 00:09:52.945
+recognizing that and that part
+of the way this is at the core
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2075-2
+00:09:52.945 --> 00:09:56.800
+of why tick is a problem that
+we're trying to solve for is if
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2075-3
+00:09:56.800 --> 00:10:00.903
+you look at HCSC, UHC and Signa,
+they're all by design gonna make
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2075-4
+00:10:00.903 --> 00:10:03.204
+their data as different as
+possible.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2094-0
+00:10:03.264 --> 00:10:08.888
+And so can we land these and
+normalize them such they become
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2094-1
+00:10:08.888 --> 00:10:10.824
+uniformly analyzable?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2130-0
+00:10:11.054 --> 00:10:15.490
+It's not the right word, but you
+know, can we structure them into
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2114-0
+00:10:13.024 --> 00:10:13.864
+And comparable.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2130-1
+00:10:15.490 --> 00:10:19.523
+a consistent data model knowing
+that they come from various
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2130-2
+00:10:19.523 --> 00:10:22.414
+disparate intentionally
+disparate formats?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2125-0
+00:10:20.124 --> 00:10:20.384
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2141-0
+00:10:23.364 --> 00:10:27.514
+Yes, that that, yes, we both did
+the same thing.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2151-0
+00:10:27.864 --> 00:10:30.074
+OK, we'll same page, OK and.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2150-0
+00:10:27.894 --> 00:10:29.374
+Yeah, OK. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2166-0
+00:10:33.124 --> 00:10:35.284
+Do you guys have an outlay of
+one of our?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2181-0
+00:10:38.004 --> 00:10:38.584
+Data schemas.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2174-0
+00:10:38.614 --> 00:10:38.984
+Do you?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2201-0
+00:10:39.114 --> 00:10:42.040
+Do you live one of our data
+schemas, Mike, that we could
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2187-0
+00:10:39.724 --> 00:10:39.954
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2201-1
+00:10:42.040 --> 00:10:45.274
+provide or or Anthony for them,
+see how we structure our data?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2207-0
+00:10:45.344 --> 00:10:46.234
+Is that a possibility?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2228-0
+00:10:48.304 --> 00:10:51.031
+Or is that because I know our
+schemas are a little emitted
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2228-1
+00:10:51.031 --> 00:10:53.204
+create a little different than
+the real world?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2230-0
+00:10:55.044 --> 00:10:55.234
+Hello.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2235-0
+00:10:56.224 --> 00:10:56.464
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2244-0
+00:10:58.074 --> 00:10:59.564
+We don't. We don't have it yet,
+David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2250-0
+00:10:58.354 --> 00:10:58.584
+Sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2263-0
+00:10:59.574 --> 00:11:01.750
+But if you could share that will
+be great as well because that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2263-1
+00:11:01.750 --> 00:11:02.544
+will give us some idea.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2286-0
+00:11:03.334 --> 00:11:06.225
+I mean the points that you
+mentioned about UHC and Cigna
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2286-1
+00:11:06.225 --> 00:11:08.964
+was exactly what we also found
+in our basic analysis.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2303-0
+00:11:09.334 --> 00:11:13.669
+We found, you know, they are not
+just disparate data, but they
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2303-1
+00:11:13.669 --> 00:11:15.734
+are also of disparate schemas.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2338-0
+00:11:15.944 --> 00:11:18.867
+So we are trying to bring them
+into one, you know, one
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2338-1
+00:11:18.867 --> 00:11:21.470
+standardized format or
+normalized format that is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2338-2
+00:11:21.470 --> 00:11:24.234
+something that you know, we also
+wanted to work on.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2353-0
+00:11:24.364 --> 00:11:27.700
+And you know, one of the other
+aspects in Azure, please correct
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2353-1
+00:11:27.700 --> 00:11:28.534
+me if I'm wrong.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2391-0
+00:11:28.664 --> 00:11:32.306
+What we found us within the UHC
+set of files there are 780
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2391-1
+00:11:32.306 --> 00:11:36.257
+different types of schema that
+we that that we saw 780 could be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2393-0
+00:11:35.404 --> 00:11:36.154
+Of course there are.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2391-2
+00:11:36.257 --> 00:11:36.874
+arbitrary.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2394-0
+00:11:36.964 --> 00:11:37.534
+Sorry yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2412-0
+00:11:39.094 --> 00:11:43.191
+I'm just laughing because the
+law requires that they provide
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2412-1
+00:11:43.191 --> 00:11:45.274
+the data, not explain the data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2416-0
+00:11:48.224 --> 00:11:48.404
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2415-0
+00:11:48.404 --> 00:11:48.564
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2423-0
+00:11:52.764 --> 00:11:54.354
+Yeah, that that got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2426-0
+00:11:54.464 --> 00:11:54.994
+Got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2430-0
+00:11:55.064 --> 00:11:55.814
+So what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2474-0
+00:11:56.124 --> 00:11:59.555
+What we were trying to find out
+was we were trying to find out
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2474-1
+00:11:59.555 --> 00:12:02.658
+if, for the purposes of the
+proof of concept, if we, you
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2474-2
+00:12:02.658 --> 00:12:06.144
+know, what could be the scope of
+this one is obviously creating
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2474-3
+00:12:06.144 --> 00:12:07.124
+the data platform.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2531-0
+00:12:07.304 --> 00:12:10.985
+Another is when we take the UNC
+file itself, should we focus on
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2531-1
+00:12:10.985 --> 00:12:14.723
+all 780 files to be standardized
+or can we take a group of them,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2531-2
+00:12:14.723 --> 00:12:18.231
+cluster them at least for the
+purpose of puoc because we are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2531-3
+00:12:18.231 --> 00:12:20.474
+we have a time bound POC cluster
+them.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2537-0
+00:12:20.484 --> 00:12:21.964
+Let's say we take hundred
+different files.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2574-0
+00:12:22.704 --> 00:12:27.455
+OK, group them, normalize them
+and then you know, use that as a
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2574-1
+00:12:27.455 --> 00:12:31.464
+places for, you know, building
+larger normalizations.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2564-0
+00:12:31.814 --> 00:12:32.144
+I do.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2600-0
+00:12:32.154 --> 00:12:35.595
+I do think it's acceptable that
+we take a subset and for the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2585-0
+00:12:35.044 --> 00:12:35.214
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2600-1
+00:12:35.595 --> 00:12:38.867
+purposes of 1, just just
+validating that we can get these
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2600-2
+00:12:38.867 --> 00:12:41.124
+disparate formats into a single
+schema.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2607-0
+00:12:41.594 --> 00:12:43.364
+It may create doofus.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2617-0
+00:12:43.374 --> 00:12:45.484
+I'm thinking about, you know,
+future use cases.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2632-0
+00:12:45.494 --> 00:12:49.084
+We have around AI, I think not
+for the scope of this.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2652-0
+00:12:49.094 --> 00:12:52.312
+So again, to your point of let's
+lock down the scope, there may
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2652-1
+00:12:52.312 --> 00:12:54.274
+be some future use case on the
+use of.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2667-0
+00:12:54.374 --> 00:12:58.689
+AI for mapping of these
+disparate data sets into a
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2667-1
+00:12:58.689 --> 00:12:59.874
+single schema.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2688-0
+00:13:00.374 --> 00:13:03.430
+Uh, but I don't know that we
+need to do the the full set of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2688-1
+00:13:03.430 --> 00:13:03.634
+UHC.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2690-0
+00:13:04.644 --> 00:13:08.244
+UM it ideally.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2720-0
+00:13:09.474 --> 00:13:13.264
+Between the three, if we want to
+narrow the scope of what's in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2720-1
+00:13:13.264 --> 00:13:16.814
+the files, we would take these
+three sources and look for.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2735-0
+00:13:17.834 --> 00:13:21.974
+Uh, common geographies that
+exist in all three and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2735-1
+00:13:21.974 --> 00:13:23.354
+prioritize those.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2741-0
+00:13:25.054 --> 00:13:26.094
+Got it. OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2742-0
+00:13:26.654 --> 00:13:26.924
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2746-0
+00:13:26.934 --> 00:13:29.314
+One quick question, David and
+yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2752-0
+00:13:31.184 --> 00:13:31.664
+Free free.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2758-0
+00:13:31.674 --> 00:13:32.274
+Look at this.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2765-0
+00:13:32.324 --> 00:13:33.894
+This just talk particular
+document.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2785-0
+00:13:33.904 --> 00:13:38.944
+I think the MRF field or
+required data elements is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2785-1
+00:13:38.944 --> 00:13:43.094
+listed, so do we think this list
+is good?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2813-0
+00:13:43.104 --> 00:13:48.108
+Good to start with in terms of
+making sure these columns are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2813-1
+00:13:48.108 --> 00:13:52.374
+are extracted or or or or or
+modeled in our system.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2825-0
+00:13:52.384 --> 00:13:55.894
+That will get get the maximum
+use cases covered.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2860-0
+00:13:56.064 --> 00:14:00.765
+Since this is a file, that is
+something that we have, we we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2860-1
+00:14:00.765 --> 00:14:05.937
+try to map them with the you you
+HCSC on the UHC file formats and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2860-2
+00:14:05.937 --> 00:14:07.504
+we were able to map.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2902-0
+00:14:07.654 --> 00:14:11.589
+I won't say 100%, but I can say
+to to our knowledge we were able
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2902-1
+00:14:11.589 --> 00:14:15.221
+to map out at least 80 plus
+percentage of of the columns we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2902-2
+00:14:15.221 --> 00:14:17.824
+were able to map from the those
+two files.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2934-0
+00:14:17.934 --> 00:14:21.970
+So, David, do you think this
+list of 18 columns should cover
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2934-1
+00:14:21.970 --> 00:14:26.138
+most of the use cases or do you
+think like you mentioned about
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2934-2
+00:14:26.138 --> 00:14:27.064
+the geography?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2942-0
+00:14:27.074 --> 00:14:29.064
+I think the the ZIP code is
+available here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2962-0
+00:14:29.074 --> 00:14:33.038
+So similar to that, do you do
+you think any any any other
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2953-0
+00:14:29.694 --> 00:14:29.944
+Umm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2962-1
+00:14:33.038 --> 00:14:34.884
+columns will be of helpful?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2978-0
+00:14:38.784 --> 00:14:41.188
+Specifically, anything outside
+the purview of these 18 columns,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2978-1
+00:14:41.188 --> 00:14:41.414
+right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2990-0
+00:14:41.424 --> 00:14:42.484
+Ashok, if I understand you
+right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2986-0
+00:14:41.664 --> 00:14:42.194
+Yeah, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/2991-0
+00:14:42.204 --> 00:14:43.174
+Yeah, exactly. Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3000-0
+00:14:45.924 --> 00:14:47.484
+So I'm I'm I'm going through.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3012-0
+00:14:50.134 --> 00:14:53.744
+I'll, I'll comment and the kid.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3024-0
+00:14:53.754 --> 00:14:58.964
+I'm just reviewing this just now
+so this is high level.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3044-0
+00:14:59.074 --> 00:15:03.860
+This will get us at the highest
+level of acclaim or the provider
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3044-1
+00:15:03.860 --> 00:15:05.554
+level claim at the MPI.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3065-0
+00:15:05.924 --> 00:15:09.355
+It won't provide data Dave at
+the at the at the at the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3065-1
+00:15:09.355 --> 00:15:11.664
+procedure level or diagnostic
+level.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3081-0
+00:15:12.924 --> 00:15:16.353
+So the whole thing about the
+tick files is it's cost per
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3081-1
+00:15:16.353 --> 00:15:16.654
+care.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3107-0
+00:15:17.654 --> 00:15:21.356
+I think some of the TIF Files Go
+down the procedure level, so
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3107-1
+00:15:21.356 --> 00:15:23.744
+you're trying to compare cost
+per cost.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3109-0
+00:15:24.354 --> 00:15:25.214
+CD4.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3111-0
+00:15:26.134 --> 00:15:26.704
+Umm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3119-0
+00:15:27.134 --> 00:15:28.424
+Or I see you not 10.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3134-0
+00:15:28.534 --> 00:15:30.934
+You're not gonna be able to do
+that with this outlet.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3149-0
+00:15:32.384 --> 00:15:36.896
+But sweat, he doesn't line 14
+that the billing code provides
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3148-0
+00:15:36.054 --> 00:15:36.584
+Yeah, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3149-1
+00:15:36.896 --> 00:15:37.784
+get to that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3153-0
+00:15:40.774 --> 00:15:41.174
+I'm sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3176-0
+00:15:41.184 --> 00:15:42.774
+Yeah, 14 is the type of billing.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3166-0
+00:15:42.374 --> 00:15:43.144
+Oh, I'm sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3172-0
+00:15:43.154 --> 00:15:43.784
+Yeah, you're right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3178-0
+00:15:43.794 --> 00:15:44.604
+I'm sorry, Dave.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3182-0
+00:15:44.474 --> 00:15:44.614
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3191-0
+00:15:45.114 --> 00:15:47.954
+My my I missed, I missed that I
+was looking.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3204-0
+00:15:48.014 --> 00:15:49.224
+I was reading the one above it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3213-0
+00:15:49.634 --> 00:15:50.364
+OK, got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3215-0
+00:15:49.704 --> 00:15:50.274
+That's all right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3236-0
+00:15:50.284 --> 00:15:52.256
+I started from the bottom
+figuring everyone would start
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3227-0
+00:15:50.634 --> 00:15:51.014
+You don't know?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3236-1
+00:15:52.256 --> 00:15:52.714
+from the top.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3233-0
+00:15:53.354 --> 00:15:54.124
+Yeah, that's OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3239-0
+00:15:54.174 --> 00:15:54.654
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3254-0
+00:15:54.444 --> 00:15:55.064
+We'll meet in the middle.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3250-0
+00:15:54.664 --> 00:15:56.004
+No, that that fall OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3256-0
+00:15:56.234 --> 00:15:57.214
+I take back what I said.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3274-0
+00:16:00.144 --> 00:16:01.064
+Yeah, I.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3270-0
+00:16:00.454 --> 00:16:02.424
+Do we have a sense of of all the
+data?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3292-0
+00:16:02.434 --> 00:16:05.432
+Like what is the highest value
+you know you're gonna be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3292-1
+00:16:05.432 --> 00:16:06.824
+narrowing scope for a POC.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3296-0
+00:16:07.114 --> 00:16:08.004
+Do we again?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3299-0
+00:16:08.014 --> 00:16:08.164
+I'm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3301-0
+00:16:08.174 --> 00:16:08.624
+I'm coming.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3341-0
+00:16:08.634 --> 00:16:12.164
+I'm coming in a little bit new
+to this as well, but like if we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3341-1
+00:16:12.164 --> 00:16:15.806
+could pick three, three or four,
+do we know which one will drive
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3341-2
+00:16:15.806 --> 00:16:18.104
+the most value to us or to a
+client yet?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3354-0
+00:16:18.114 --> 00:16:21.644
+Or is that require some some
+digging in just?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3364-0
+00:16:21.814 --> 00:16:24.324
+I think that's a natural way to
+kind of limit.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3368-0
+00:16:24.334 --> 00:16:25.004
+It is just call.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3393-0
+00:16:25.014 --> 00:16:27.696
+Let's go for the highest, most
+valuable data to begin with, and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3393-1
+00:16:27.696 --> 00:16:29.834
+then we could always keep
+peeling off more layers.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3412-0
+00:16:33.954 --> 00:16:39.922
+I, Mike, I don't think that
+that's I'm contemplate what
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3412-1
+00:16:39.922 --> 00:16:41.414
+you're saying.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3440-0
+00:16:42.354 --> 00:16:46.731
+I think if we wanna do this and
+really see value in it, we need
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3440-1
+00:16:46.731 --> 00:16:49.604
+to have it at the level that's
+at row 14.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3469-0
+00:16:50.464 --> 00:16:55.445
+14 Yeah, so, so I mean, the way
+I look at it would be, yeah,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3482-0
+00:16:52.794 --> 00:16:56.750
+Because then cause then we can
+summarize up, because what's
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3469-1
+00:16:55.445 --> 00:16:55.854
+yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3482-1
+00:16:56.750 --> 00:17:00.244
+built into one through 18 here
+is implied hierarchy.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3510-0
+00:17:01.294 --> 00:17:04.041
+And so if we're gonna create a
+decision that you're making, we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3494-0
+00:17:01.434 --> 00:17:01.674
+Right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3510-1
+00:17:04.041 --> 00:17:06.134
+have to decide what level of
+hierarchy that is.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3524-0
+00:17:06.684 --> 00:17:08.454
+Yeah, his other, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3519-0
+00:17:06.954 --> 00:17:09.584
+And honestly, that's gonna be
+hard.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3555-0
+00:17:09.714 --> 00:17:16.349
+In a claim with the spirit data
+schemas from different plants or
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3543-0
+00:17:15.994 --> 00:17:16.224
+Mm-hmm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3555-1
+00:17:16.349 --> 00:17:21.964
+so, I like what you're saying,
+the scope creep, but I.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3554-0
+00:17:20.524 --> 00:17:21.094
+The specific.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3578-0
+00:17:24.304 --> 00:17:26.554
+Anybody disagree with me and
+wait?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3590-0
+00:17:25.764 --> 00:17:28.792
+This is also like I was gonna
+say, I think we all agree 14
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3590-1
+00:17:28.792 --> 00:17:30.384
+gets us to that granular level.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3592-0
+00:17:30.394 --> 00:17:31.374
+And then what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3602-0
+00:17:31.384 --> 00:17:33.444
+I'm not sure about is like is it
+geography?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3624-0
+00:17:33.454 --> 00:17:36.128
+Like what are the two or three
+other dimensions that give us
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3624-1
+00:17:36.128 --> 00:17:38.584
+the aha moment to say, yeah,
+that's really interesting.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3672-0
+00:17:38.674 --> 00:17:42.145
+Look how different this is
+across geography for the same
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3672-1
+00:17:42.145 --> 00:17:45.860
+billing code across these plans
+and kind of jumping ahead to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3680-0
+00:17:44.784 --> 00:17:46.983
+I mean, I guess I guess you
+could, you could say, well,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3672-2
+00:17:45.860 --> 00:17:46.834
+like what, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3680-1
+00:17:46.983 --> 00:17:49.417
+let's just do it for Texas or
+something, I guess you could do
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3680-2
+00:17:49.417 --> 00:17:49.614
+that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3682-0
+00:17:50.604 --> 00:17:51.394
+I'm is.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3700-0
+00:17:51.404 --> 00:17:56.832
+Is is the POC Bartley to
+demonstrate the ability to do
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3700-1
+00:17:56.832 --> 00:17:58.214
+this or is it?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3740-0
+00:17:58.284 --> 00:18:02.157
+And then if we can do it, then
+we expand it and add more data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3740-1
+00:18:02.157 --> 00:18:05.717
+to it as right now, because
+right now you know, we don't
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3725-0
+00:18:02.944 --> 00:18:03.764
+That will that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3736-0
+00:18:03.884 --> 00:18:04.544
+Yeah, that's a.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3740-2
+00:18:05.717 --> 00:18:06.654
+have CVS, Edna.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3750-0
+00:18:06.904 --> 00:18:10.514
+We don't have elevons anthem.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3770-0
+00:18:10.554 --> 00:18:14.114
+You know, we don't have those
+either, so umm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3759-0
+00:18:13.264 --> 00:18:13.614
+Correct.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3809-0
+00:18:13.624 --> 00:18:17.328
+At the moment, at the moment the
+goal, the reason why I was
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3809-1
+00:18:17.328 --> 00:18:20.847
+suggesting we narrow the scope
+to where we've got common
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3809-2
+00:18:20.847 --> 00:18:24.674
+geographies across all three
+files is the ability to comingle
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3809-3
+00:18:24.674 --> 00:18:28.440
+datasets for the purposes of
+creating an insight and if if I
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3809-4
+00:18:28.440 --> 00:18:29.304
+have you know.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3857-0
+00:18:30.004 --> 00:18:34.245
+UHC data for California but
+HCSC's data for Illinois and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3857-1
+00:18:34.245 --> 00:18:36.254
+Cigna data for Connecticut.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3873-0
+00:18:36.544 --> 00:18:39.987
+You know, we would prove out
+umm, that we could land in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3873-1
+00:18:39.987 --> 00:18:43.738
+normalize all three datasets,
+but we wouldn't necessarily be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3873-2
+00:18:43.738 --> 00:18:47.427
+able to see what the commingling
+of those data sets does to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3873-3
+00:18:47.427 --> 00:18:48.964
+inform a single analysis.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3889-0
+00:18:52.754 --> 00:18:53.034
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3896-0
+00:18:52.804 --> 00:18:54.284
+OK, so are we.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3883-0
+00:18:53.774 --> 00:18:53.944
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3898-0
+00:18:53.954 --> 00:18:56.944
+The question I have is is do we
+know who's the persona?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3905-0
+00:18:57.074 --> 00:18:58.134
+What's the problem?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3917-0
+00:18:58.144 --> 00:19:01.105
+They're trying to like like how
+does this solve a problem for
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3917-1
+00:19:01.105 --> 00:19:01.344
+them?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3948-0
+00:19:01.354 --> 00:19:05.275
+Do we know that yet of like, who
+is gonna have the aha moment to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3930-0
+00:19:02.624 --> 00:19:03.134
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3942-0
+00:19:03.144 --> 00:19:03.824
+So yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3946-0
+00:19:04.174 --> 00:19:04.914
+So so.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3948-1
+00:19:05.275 --> 00:19:07.024
+say, wow, that's interesting.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3973-0
+00:19:07.034 --> 00:19:09.264
+Let me do something about that
+or or take some action.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3961-0
+00:19:08.524 --> 00:19:08.794
+Right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3967-0
+00:19:08.844 --> 00:19:09.434
+So the.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4001-0
+00:19:09.894 --> 00:19:14.622
+So here's the the simple use
+case on tick is I wanna look at
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/3980-0
+00:19:10.364 --> 00:19:10.584
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4001-1
+00:19:14.622 --> 00:19:18.886
+where my network rates my
+contracted rates compared to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4001-2
+00:19:18.886 --> 00:19:20.514
+others in the market.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4025-0
+00:19:20.524 --> 00:19:25.352
+So heat map for me by county
+where I am 10% above the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4009-0
+00:19:20.834 --> 00:19:20.994
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4025-1
+00:19:25.352 --> 00:19:28.124
+average, 10% below the average.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4029-0
+00:19:28.754 --> 00:19:28.934
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4054-0
+00:19:29.534 --> 00:19:33.976
+How does my network rate
+competitiveness compare to data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4054-1
+00:19:33.976 --> 00:19:35.924
+found in other Tik files?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4044-0
+00:19:35.394 --> 00:19:35.924
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4046-0
+00:19:35.964 --> 00:19:36.384
+Perfect.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-0
+00:19:36.394 --> 00:19:40.706
+He's been I would say we just
+take the 14 we, we take all the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-1
+00:19:40.706 --> 00:19:45.018
+common geographies slice it by
+state county zip right and and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-2
+00:19:45.018 --> 00:19:49.192
+then we from there. We we, we
+land, the data. Obviously, we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-3
+00:19:49.192 --> 00:19:53.017
+have a you know a kind of
+pipeline that or whatever to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-4
+00:19:53.017 --> 00:19:57.051
+maybe at the table where we
+unify you know the handful of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-5
+00:19:57.051 --> 00:20:01.433
+dimensions to allow that right
+and then even better. If we can
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4155-6
+00:20:01.433 --> 00:20:04.424
+sort of correlate that to our to
+our data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4225-0
+00:20:04.484 --> 00:20:07.698
+You know that we have and then
+then we yeah, we come up with
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4225-1
+00:20:07.698 --> 00:20:10.860
+some dashboard views whether
+it's Tableau, Powerbi with the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4225-2
+00:20:10.860 --> 00:20:13.970
+maps and some tables and and
+maybe some benchmarking to to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4225-3
+00:20:13.970 --> 00:20:17.237
+establish the benchmark and yeah
+just we we pick half a dozen
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4225-4
+00:20:17.237 --> 00:20:19.714
+dimensions that we could slice
+it by you know.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4217-0
+00:20:19.784 --> 00:20:20.094
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4226-0
+00:20:20.104 --> 00:20:21.634
+And so I we're looking at what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4242-0
+00:20:21.644 --> 00:20:25.001
+What was originally put together
+but within the SOW and we can
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4242-1
+00:20:25.001 --> 00:20:25.694
+pull that up.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4251-0
+00:20:29.554 --> 00:20:32.234
+Uh, sorry I wasn't born
+document.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4255-0
+00:20:32.284 --> 00:20:32.824
+Give me a second.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4267-0
+00:20:39.674 --> 00:20:42.224
+Uh, that that was the analysis
+we had.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4292-0
+00:20:42.234 --> 00:20:45.885
+We had prioritized in the SOW
+just take like to get my hands
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4295-0
+00:20:44.694 --> 00:20:46.664
+OK. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4292-1
+00:20:45.885 --> 00:20:46.244
+on it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4301-0
+00:20:47.784 --> 00:20:49.684
+But let me stop sharing David
+and I'll probably.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4307-0
+00:20:52.654 --> 00:20:52.884
+Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4314-0
+00:20:52.894 --> 00:20:54.114
+So it's going to be the billing.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4338-0
+00:20:54.124 --> 00:20:57.951
+Those billing codes are the 14
+the provider ID's and then all
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4338-1
+00:20:57.951 --> 00:21:01.594
+the geographies different levels
+as a as a starting point.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4346-0
+00:21:01.604 --> 00:21:03.664
+They may be a few other
+dimensions too.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4361-0
+00:21:03.724 --> 00:21:07.407
+Is it get down to it's sort of
+physician level, things like
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4361-1
+00:21:07.407 --> 00:21:08.144
+that too or?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4363-0
+00:21:11.364 --> 00:21:11.564
+Uh.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4380-0
+00:21:13.114 --> 00:21:16.426
+You know, I don't know if the
+tick data would have specific
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4380-1
+00:21:16.426 --> 00:21:17.144
+provider MPI.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4383-0
+00:21:17.154 --> 00:21:17.784
+I think it does.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4429-0
+00:21:22.144 --> 00:21:25.319
+Because then we could see within
+a county or whatever, you know,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4429-1
+00:21:25.319 --> 00:21:28.250
+it's sort of top five of the
+highest cost, lowest cost, all
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4429-2
+00:21:28.250 --> 00:21:29.374
+that kind of stuff too.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4431-0
+00:21:29.554 --> 00:21:31.774
+What theoretically you supposed
+to be able to?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4446-0
+00:21:38.304 --> 00:21:45.354
+I compare charge masters by who
+is doing the work.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4452-0
+00:21:45.564 --> 00:21:46.504
+Is the point of tick.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4453-0
+00:21:47.014 --> 00:21:47.214
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4454-0
+00:21:47.894 --> 00:21:48.244
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4457-0
+00:21:48.254 --> 00:21:50.954
+So UM.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4464-0
+00:21:59.414 --> 00:21:59.814
+We could.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4497-0
+00:21:59.824 --> 00:22:02.699
+It sounds like Shetty like even
+some kind of whisker charts
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4497-1
+00:22:02.699 --> 00:22:05.622
+where we show kind of median
+where are the outliers for each
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4497-2
+00:22:05.622 --> 00:22:07.874
+of these and slice that
+different ways, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4509-0
+00:22:09.464 --> 00:22:13.134
+So yeah, so these were the
+three.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4564-0
+00:22:13.144 --> 00:22:17.583
+So the heat map size refer to
+comparison on price competitive,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4564-1
+00:22:17.583 --> 00:22:22.233
+but at the procedure slash visit
+type level uh to compare how one
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4564-2
+00:22:22.233 --> 00:22:26.531
+planned rates compared to others
+in that market which is why
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4564-3
+00:22:26.531 --> 00:22:30.547
+having narrowed down to a common
+geography was important
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4564-4
+00:22:30.547 --> 00:22:31.534
+reimbursement.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4567-0
+00:22:31.544 --> 00:22:33.544
+Benchmarking ohh.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4569-0
+00:22:34.604 --> 00:22:36.824
+Reimbursement between.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4576-0
+00:22:38.264 --> 00:22:40.004
+Umm, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4621-0
+00:22:40.014 --> 00:22:44.780
+So once a heat map, the other is
+perhaps looking at, you know by
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4621-1
+00:22:44.780 --> 00:22:48.887
+procedure and the network
+adequacy to look to see where
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4621-2
+00:22:48.887 --> 00:22:53.287
+you've got potentially and we
+see if the data would support
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4621-3
+00:22:53.287 --> 00:22:56.514
+this sort of analysis for
+network adequacy.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4646-0
+00:22:57.024 --> 00:23:00.974
+You know, do you have areas
+where you know, certain plans,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4646-1
+00:23:00.974 --> 00:23:04.723
+fewer plans have contracted
+rates for certain specialty
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4646-2
+00:23:04.723 --> 00:23:06.464
+types, umm, or procedures?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4668-0
+00:23:12.684 --> 00:23:15.892
+So that's where we're merging in
+maybe our data to say where are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4668-1
+00:23:15.892 --> 00:23:17.274
+we seeing these gaps, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4677-0
+00:23:17.284 --> 00:23:20.054
+And and by county or whatever,
+where there's no coverage.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4689-0
+00:23:20.064 --> 00:23:20.764
+Who's at the idea?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4699-0
+00:23:21.494 --> 00:23:24.780
+That would that part of the goal
+is of combine combining in our
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4699-1
+00:23:24.780 --> 00:23:25.294
+demo data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4719-0
+00:23:30.104 --> 00:23:37.554
+Uh, but the the the demo data
+would be looking at ohm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4735-0
+00:23:37.994 --> 00:23:39.384
+You know our heat map.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4784-0
+00:23:40.214 --> 00:23:44.578
+So if you were to take in our
+demo data and compare umm rates
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4784-1
+00:23:44.578 --> 00:23:48.519
+and let's just say it's our
+customer, our customer data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4784-2
+00:23:48.519 --> 00:23:53.164
+compared to the data source from
+the tech files, how do you start
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4784-3
+00:23:53.164 --> 00:23:57.669
+to create insight for the health
+plan around where they've got,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4784-4
+00:23:57.669 --> 00:24:00.414
+you know rate discrepancies in
+market?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4792-0
+00:24:17.784 --> 00:24:20.034
+So. Umm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4795-0
+00:24:26.674 --> 00:24:27.064
+What?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4818-0
+00:24:27.074 --> 00:24:29.637
+So what's it getting back to the
+original, you know kind of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4818-1
+00:24:29.637 --> 00:24:31.304
+question and that we started off
+with.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4842-0
+00:24:31.314 --> 00:24:35.437
+So, you know, at the end of the
+day, our goal right now is how
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4842-1
+00:24:35.437 --> 00:24:37.794
+do we get to a normalized data
+set.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4904-0
+00:24:37.884 --> 00:24:41.384
+So the the downstream analytics,
+if we can narrow the scope as to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4904-1
+00:24:41.384 --> 00:24:44.619
+which of the files from UHC,
+Cigna, HCSC kind of question we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4904-2
+00:24:44.619 --> 00:24:48.013
+need to answer is which regions
+from those data sets do we want
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4904-3
+00:24:48.013 --> 00:24:51.089
+to make part of this initial
+scope so that we can keep it
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4904-4
+00:24:51.089 --> 00:24:53.264
+finite and you know make
+progress on it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4933-0
+00:24:54.524 --> 00:24:57.458
+You know, I wanna make it more
+than one market, but you know,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4933-1
+00:24:57.458 --> 00:25:00.061
+UHC is massive, so I don't
+necessarily wanna do all of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4933-2
+00:25:00.061 --> 00:25:00.724
+their markets.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4946-0
+00:25:02.344 --> 00:25:06.134
+Umm, you know, knowing that HCSC
+off the bat is what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4952-0
+00:25:06.144 --> 00:25:08.184
+Nevada, Texas, Illinois.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4954-0
+00:25:10.324 --> 00:25:10.534
+It's.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4963-0
+00:25:10.544 --> 00:25:11.934
+Yeah, it's actually not. Not
+Nevada.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4971-0
+00:25:11.944 --> 00:25:13.004
+It's gonna be New Mexico.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4975-0
+00:25:13.354 --> 00:25:14.294
+New Mexico, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4999-0
+00:25:14.304 --> 00:25:18.308
+Oklahoma, Montana and then
+Texas, Illinois and the and by
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4995-0
+00:25:16.284 --> 00:25:18.624
+Want to Texas?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/4999-1
+00:25:18.308 --> 00:25:20.794
+far the biggest or Texas,
+Illinois.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5022-0
+00:25:20.804 --> 00:25:22.814
+Those are the biggies. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5007-0
+00:25:21.834 --> 00:25:21.994
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5040-0
+00:25:22.794 --> 00:25:25.194
+And you know, is going to have a
+presence in both of those as
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5040-1
+00:25:25.194 --> 00:25:26.394
+well and I believe so is Cigna.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5033-0
+00:25:26.964 --> 00:25:27.254
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5057-0
+00:25:27.304 --> 00:25:30.561
+So we could just pick, you know,
+Texas, Illinois maybe when other
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5057-1
+00:25:30.561 --> 00:25:32.634
+state you know third largest or
+whatever.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5055-0
+00:25:34.144 --> 00:25:34.554
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5099-0
+00:25:34.604 --> 00:25:38.416
+And and David just wanted to
+call out that we were not able
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5099-1
+00:25:38.416 --> 00:25:42.419
+to access signal files from from
+offshore from India primarily
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5099-2
+00:25:42.419 --> 00:25:46.486
+because I think it's restricted
+to only US you as only access I
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5099-3
+00:25:46.486 --> 00:25:46.994
+believe.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5149-0
+00:25:47.204 --> 00:25:50.562
+So you know that is that is
+something that we are trying to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5149-1
+00:25:50.562 --> 00:25:53.865
+sort out by bringing in an
+onshore resource that will work
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5149-2
+00:25:53.865 --> 00:25:57.223
+closely so that they they can
+access and mask whatever data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5149-3
+00:25:57.223 --> 00:25:59.574
+that they need to mask and send
+it to us.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5178-0
+00:25:59.584 --> 00:26:02.689
+So just wanted to call that out
+as well, David, when we started
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5178-1
+00:26:02.689 --> 00:26:05.747
+analyzing the files, signal was
+something that was we were not
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5178-2
+00:26:05.747 --> 00:26:07.154
+able to access from offshore.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5180-0
+00:26:09.324 --> 00:26:09.564
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5182-0
+00:26:14.244 --> 00:26:14.664
+Interesting.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5190-0
+00:26:18.684 --> 00:26:20.244
+OK, alright, that's good to
+know.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5196-0
+00:26:30.454 --> 00:26:30.804
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5254-0
+00:26:30.814 --> 00:26:34.072
+So David, when you know when
+Michael was talking about
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5254-1
+00:26:34.072 --> 00:26:37.863
+accessing New Mexico and a few
+other states, so can we say that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5254-2
+00:26:37.863 --> 00:26:41.536
+for UHC files, can we look out
+for those specific regions and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5254-3
+00:26:41.536 --> 00:26:44.794
+extract the data and use them
+for the standardization?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5249-0
+00:26:43.284 --> 00:26:43.644
+Texas.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5262-0
+00:26:45.294 --> 00:26:46.504
+Yeah, Texas and Illinois.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5263-0
+00:26:47.244 --> 00:26:48.034
+Takes as an element.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5265-0
+00:26:48.044 --> 00:26:48.224
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5267-0
+00:26:49.324 --> 00:26:49.754
+Yeah, sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5270-0
+00:26:52.364 --> 00:26:52.624
+Bye.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5274-0
+00:26:53.054 --> 00:26:53.294
+What?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5313-0
+00:26:53.574 --> 00:26:56.324
+So those regions we can
+concentrate and if we are able
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5313-1
+00:26:56.324 --> 00:26:59.224
+to extract the data from
+H&amp;UC files for those regions
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5313-2
+00:26:59.224 --> 00:27:02.124
+and we are able to standardize
+them, that could be a good
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5313-3
+00:27:02.124 --> 00:27:02.424
+start.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5337-0
+00:27:02.434 --> 00:27:04.830
+And obviously when when we are
+able to bring in Sigma, we can
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5337-1
+00:27:04.830 --> 00:27:07.034
+also look out for those regions
+from Sigma file as well.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5340-0
+00:27:08.504 --> 00:27:09.054
+Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5355-0
+00:27:09.164 --> 00:27:13.724
+Yep, I'd say, uh, you know
+Anthony and edgier.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5346-0
+00:27:10.274 --> 00:27:10.434
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5362-0
+00:27:13.734 --> 00:27:15.304
+Your help keep me honest here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5374-0
+00:27:15.814 --> 00:27:19.346
+You know from an approach
+perspective, I mentioned in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5374-1
+00:27:19.346 --> 00:27:20.654
+figuring out how we.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5429-0
+00:27:21.724 --> 00:27:25.460
+Land the data in our lake and
+then transform into a standard
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5429-1
+00:27:25.460 --> 00:27:29.196
+format cause part of this body
+of work is is getting to that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5429-2
+00:27:29.196 --> 00:27:32.626
+you know, data like being a
+source for however the data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5429-3
+00:27:32.626 --> 00:27:36.363
+wants to come to us and then we
+do the transformation on the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5429-4
+00:27:36.363 --> 00:27:36.914
+back end.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5434-0
+00:27:36.924 --> 00:27:38.094
+So I don't have that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5523-0
+00:27:38.144 --> 00:27:41.851
+It's not a tech person, so maybe
+a dumb statement here, but I do
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5523-1
+00:27:41.851 --> 00:27:45.386
+know that part of what we're
+trying to prove out with this is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5523-2
+00:27:45.386 --> 00:27:48.979
+that notion of the accept the
+data in any format and then work
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5523-3
+00:27:48.979 --> 00:27:52.572
+to get it into our data model
+and standardized a format on the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5523-4
+00:27:52.572 --> 00:27:55.708
+back end and that has
+applicability to other use cases
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5523-5
+00:27:55.708 --> 00:27:58.674
+we're solving for, for our
+customers down the road.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5525-0
+00:27:59.444 --> 00:28:00.844
+Do we have a target database?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5555-0
+00:28:00.854 --> 00:28:03.858
+And again I'm I apologize, being
+kind of new new to this, but you
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5555-1
+00:28:03.858 --> 00:28:06.771
+know obviously we have you know,
+Vertica, Mondrian, but this is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5555-2
+00:28:06.771 --> 00:28:07.454
+an opportunity.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5558-0
+00:28:07.464 --> 00:28:08.374
+It's so new.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5580-0
+00:28:08.444 --> 00:28:11.434
+Could we look at a redshift or
+snowflake or some other?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5626-0
+00:28:11.564 --> 00:28:15.499
+You know the database as the
+place to unify this, and that's
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5608-0
+00:28:12.304 --> 00:28:15.784
+And if I believe we're looking
+at the yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5626-1
+00:28:15.499 --> 00:28:18.724
+our 4A into a new a new cloud
+database, you know.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5611-0
+00:28:16.204 --> 00:28:16.314
+Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5630-0
+00:28:19.194 --> 00:28:19.714
+That's yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5620-0
+00:28:19.434 --> 00:28:19.704
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5635-0
+00:28:19.714 --> 00:28:22.584
+So we're we're looking to do a
+data like model.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5654-0
+00:28:22.654 --> 00:28:26.360
+So it's not a database like a
+redshift or snowflake, it's it's
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5652-0
+00:28:25.264 --> 00:28:25.534
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5654-1
+00:28:26.360 --> 00:28:27.184
+the data lake.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5667-0
+00:28:27.194 --> 00:28:31.124
+So it'll reside in S3 and use
+these services from S3.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5682-0
+00:28:31.134 --> 00:28:33.014
+So yeah, here's the architecture
+coming up here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5679-0
+00:28:32.354 --> 00:28:32.544
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5694-0
+00:28:32.554 --> 00:28:36.674
+OK, so so so we'll, we'll we'll
+land them in their disparate
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5694-1
+00:28:36.674 --> 00:28:37.214
+formats.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5748-0
+00:28:37.224 --> 00:28:41.873
+And you're saying, well, have
+some kind of pipeline to unify
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5748-1
+00:28:41.873 --> 00:28:46.598
+those into a common format and
+that'll be in a in a data lake
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5748-2
+00:28:46.598 --> 00:28:48.504
+format you're saying, OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5729-0
+00:28:46.784 --> 00:28:47.274
+Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5744-0
+00:28:47.174 --> 00:28:48.324
+Correct, correct.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5735-0
+00:28:47.284 --> 00:28:47.694
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5737-0
+00:28:47.704 --> 00:28:48.124
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5767-0
+00:28:48.184 --> 00:28:51.378
+So Anthony, Anthony, let me add
+in a little bit cause I think
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5767-1
+00:28:51.378 --> 00:28:54.624
+you and I've been chatting by
+teams and my my team is morning.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5808-0
+00:28:54.634 --> 00:28:58.920
+I just talked to Siri, so I
+think the plan here, and I know
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5808-1
+00:28:58.920 --> 00:29:03.564
+that with iceberg is to create a
+structured data set so it's the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5808-2
+00:29:03.564 --> 00:29:08.137
+same indeed of science needs the
+same thing that we're building
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5808-3
+00:29:08.137 --> 00:29:08.494
+here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5831-0
+00:29:09.404 --> 00:29:13.378
+So the end result in the lake,
+the final version of the lake
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5831-1
+00:29:13.378 --> 00:29:15.594
+will be that accessible data
+set.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5851-0
+00:29:15.604 --> 00:29:19.657
+So if they're structured
+similarly, and I know that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5851-1
+00:29:19.657 --> 00:29:23.164
+Anthony's got great, great work
+around that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5888-0
+00:29:23.174 --> 00:29:27.762
+So transforming it from that raw
+data to the work that we can use
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5888-1
+00:29:27.762 --> 00:29:31.795
+for power BI or Python or
+whatever, we're going to use is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5888-2
+00:29:31.795 --> 00:29:36.175
+in that that center lake with
+iceberg providing the structured
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5888-3
+00:29:36.175 --> 00:29:37.774
+output correct Anthony.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5911-0
+00:29:40.054 --> 00:29:42.934
+Uh, yeah, so this is the same
+model that we're looking to use
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5909-0
+00:29:41.454 --> 00:29:41.754
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5911-1
+00:29:42.934 --> 00:29:43.584
+for, uh, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5936-0
+00:29:43.594 --> 00:29:45.104
+The data science team we're
+looking to use the.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5921-0
+00:29:44.254 --> 00:29:45.004
+Yeah, exactly.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5926-0
+00:29:45.014 --> 00:29:45.484
+It's the same.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5930-0
+00:29:45.494 --> 00:29:45.704
+Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5932-0
+00:29:45.714 --> 00:29:46.084
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5994-0
+00:29:46.274 --> 00:29:50.587
+So Mike, to your question, we're
+trying to Anthony and team are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5994-1
+00:29:50.587 --> 00:29:54.766
+courting standard process using
+what's on here and we've been
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5994-2
+00:29:54.766 --> 00:29:58.945
+doing this in the the Data Lake
+team has been working on this
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5972-0
+00:29:55.334 --> 00:29:55.534
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5994-3
+00:29:58.945 --> 00:30:01.304
+for about a month and 1/2 now,
+so.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/5984-0
+00:29:59.004 --> 00:30:01.394
+OK, OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6011-0
+00:30:01.404 --> 00:30:04.614
+So if I understand this, so we
+have our our huge raw files in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6011-1
+00:30:04.614 --> 00:30:06.064
+sitting in these S3 buckets.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6014-0
+00:30:06.074 --> 00:30:07.044
+That's where we landed.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6049-0
+00:30:07.234 --> 00:30:12.493
+We're gonna have a much for the
+POC, a smaller maybe it's just a
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6049-1
+00:30:12.493 --> 00:30:17.024
+slice of that in the iceberg
+format, I guess, right or.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6061-0
+00:30:17.164 --> 00:30:20.134
+And and be the the ride.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6065-0
+00:30:20.144 --> 00:30:21.784
+It all get landed right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6070-0
+00:30:23.834 --> 00:30:24.124
+Uh.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6081-0
+00:30:24.134 --> 00:30:24.314
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6098-0
+00:30:24.324 --> 00:30:25.554
+And S3, that's correct.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6088-0
+00:30:24.384 --> 00:30:25.834
+And yeah, yeah, yeah, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6118-0
+00:30:25.844 --> 00:30:28.344
+There's three, and then the lake
+will be in S3 too, so it's all.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6163-0
+00:30:28.234 --> 00:30:31.357
+That they'll have a
+transformation and we're going
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6163-1
+00:30:31.357 --> 00:30:35.154
+to just the transformation will
+only focus on our POC limited
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6163-2
+00:30:35.154 --> 00:30:39.135
+part of the data set is that is
+that accurate or are we going to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6163-3
+00:30:39.135 --> 00:30:40.544
+do more than that this.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6154-0
+00:30:40.014 --> 00:30:41.154
+I believe that's what that
+that's.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6208-0
+00:30:41.164 --> 00:30:44.871
+Yeah, that's what we're looking
+to do is is bring the data in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6176-0
+00:30:44.044 --> 00:30:44.224
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6208-1
+00:30:44.871 --> 00:30:48.578
+and use this this structure,
+this data like format to make it
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6208-2
+00:30:48.578 --> 00:30:52.165
+usable and those other pieces
+treeno and other other pieces
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6208-3
+00:30:52.165 --> 00:30:55.274
+right now that we're not
+currently leveraging. Yep.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6213-0
+00:30:56.164 --> 00:30:56.344
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6261-0
+00:30:56.494 --> 00:30:59.597
+Yeah, but just one one
+additional point to what Anthony
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6261-1
+00:30:59.597 --> 00:31:02.258
+just mentioned, there can be
+some part of small
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6261-2
+00:31:02.258 --> 00:31:05.527
+transformation that will be
+applied in terms of flattening
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6237-0
+00:31:03.714 --> 00:31:03.914
+Right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6261-3
+00:31:05.527 --> 00:31:08.964
+the the Jacksons because all
+these data are going to be from,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6261-4
+00:31:08.964 --> 00:31:11.624
+in, in the JSON format from from
+these systems.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6287-0
+00:31:11.634 --> 00:31:15.799
+So we might do and only one
+level of transformation in terms
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6287-1
+00:31:15.799 --> 00:31:18.804
+of flattening that into into the
+raw layer.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6304-0
+00:31:18.814 --> 00:31:21.864
+So just just want to add the
+point, Anthony hope that that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6304-1
+00:31:21.864 --> 00:31:22.484
+that's fine.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6307-0
+00:31:23.634 --> 00:31:24.674
+Yeah, sounds good.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6306-0
+00:31:24.564 --> 00:31:24.784
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6310-0
+00:31:27.234 --> 00:31:27.614
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6320-0
+00:31:27.694 --> 00:31:29.684
+And and for transformations we
+are.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6341-0
+00:31:29.734 --> 00:31:34.764
+We are going to use the glue,
+the glue, glue and spark right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6333-0
+00:31:32.054 --> 00:31:32.614
+Spock.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6337-0
+00:31:32.624 --> 00:31:33.004
+Yep.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6344-0
+00:31:33.354 --> 00:31:33.984
+Close park. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6368-0
+00:31:34.774 --> 00:31:39.567
+So and and iceberg will serve as
+you know, a transformed you know
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6368-1
+00:31:39.567 --> 00:31:43.344
+layer where all the data will be
+stored in iceberg.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6378-0
+00:31:43.574 --> 00:31:47.664
+Because iceberg has certain
+Delta Lake type of capabilities.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6388-0
+00:31:47.714 --> 00:31:49.564
+So that's something that we want
+to use.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6425-0
+00:31:49.634 --> 00:31:53.511
+Trino is more of a intermediary
+between iceberg and the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6425-1
+00:31:53.511 --> 00:31:57.943
+visualization, so we can think
+of, you know, as a very low code
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6425-2
+00:31:57.943 --> 00:32:00.574
+UI which is similar to Athena in
+AWS.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6445-0
+00:32:00.584 --> 00:32:03.695
+So allowing end users to start
+querying from the database they
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6445-1
+00:32:03.695 --> 00:32:06.214
+want to check out some records
+and whatnot, right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6450-0
+00:32:06.224 --> 00:32:06.954
+Not necessarily.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6467-0
+00:32:06.964 --> 00:32:09.943
+Depending on the visualization
+layer, always so that was the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6467-1
+00:32:09.943 --> 00:32:11.994
+thought process behind bringing
+in treno.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6476-0
+00:32:12.364 --> 00:32:14.104
+So yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6493-0
+00:32:14.204 --> 00:32:17.015
+So for Torino is is there a
+Tableau connector to that as
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6493-1
+00:32:17.015 --> 00:32:18.544
+well that we could use Tableau?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6491-0
+00:32:19.504 --> 00:32:19.934
+Ohm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6501-0
+00:32:19.914 --> 00:32:20.194
+I.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6495-0
+00:32:20.164 --> 00:32:20.814
+Yeah, we.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6518-0
+00:32:20.904 --> 00:32:24.211
+Yeah, I think we have a an, I
+think we we used Power BI for
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6518-1
+00:32:24.211 --> 00:32:25.314
+in, in, in the past.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6529-0
+00:32:25.324 --> 00:32:27.354
+So, but yeah, we can quickly
+confirm that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6541-0
+00:32:27.364 --> 00:32:29.694
+But remember it has connectors
+for all.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6539-0
+00:32:27.764 --> 00:32:27.924
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6545-0
+00:32:29.974 --> 00:32:30.524
+All of them, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6544-0
+00:32:30.014 --> 00:32:30.214
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6583-0
+00:32:37.844 --> 00:32:40.704
+Yes, it does have a connector
+problem.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6582-0
+00:32:37.964 --> 00:32:40.524
+And that's OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6571-0
+00:32:39.454 --> 00:32:40.634
+Yeah, the tree node does have.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6587-0
+00:32:40.644 --> 00:32:43.524
+I just checked it two does have
+a tablet connected Michael.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6596-0
+00:32:44.374 --> 00:32:44.554
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6592-0
+00:32:44.604 --> 00:32:44.744
+No.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6618-0
+00:32:45.764 --> 00:32:50.538
+And and this and this, Trina is
+going to be like the the the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6618-1
+00:32:50.538 --> 00:32:54.374
+physical form of a of a table on
+top of iceberg.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6662-0
+00:32:54.384 --> 00:32:59.362
+So the iceberg is is the way of
+storing the data on the on the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6662-1
+00:32:59.362 --> 00:33:04.420
+on the data leak on S3 and it's
+got its own advantages of as it
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6662-2
+00:33:04.420 --> 00:33:08.134
+compliant and we can do more
+schema evolution.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6672-0
+00:33:08.144 --> 00:33:09.734
+All those properties will come
+in as.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6720-0
+00:33:09.744 --> 00:33:13.468
+When when we when we store it as
+an iceberg format still that's
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6720-1
+00:33:13.468 --> 00:33:17.308
+going to sit on on top of S3 and
+we are going to have trino which
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6720-2
+00:33:17.308 --> 00:33:21.091
+is going to use the glue catalog
+for, for, for these files where
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6720-3
+00:33:21.091 --> 00:33:23.244
+we can see it like a physical
+table.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6752-0
+00:33:23.254 --> 00:33:26.932
+So Trino will give that layer of
+writing sequels if you want to,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6752-1
+00:33:26.932 --> 00:33:30.385
+and we can have power BI or
+Tableau on top of sitting on top
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6752-2
+00:33:30.385 --> 00:33:31.064
+of you know.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6761-0
+00:33:39.634 --> 00:33:40.464
+I think you're on mute.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6773-0
+00:33:52.924 --> 00:33:55.254
+And and I just mentioned about,
+sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6776-0
+00:33:59.044 --> 00:33:59.514
+Anthony.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6792-0
+00:33:59.564 --> 00:34:00.044
+Ohh sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6817-0
+00:34:00.404 --> 00:34:02.446
+It what Mike was gonna say
+something, but I don't know if
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6817-1
+00:34:02.446 --> 00:34:02.974
+Michael saying.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6804-0
+00:34:02.534 --> 00:34:03.354
+Oh yeah, I I was.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6821-0
+00:34:03.364 --> 00:34:05.484
+I was asking you, but I didn't
+have any any questions.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6832-0
+00:34:05.574 --> 00:34:05.814
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6830-0
+00:34:06.154 --> 00:34:07.544
+I think that that all make
+sense.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6833-0
+00:34:07.554 --> 00:34:07.824
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6837-0
+00:34:07.884 --> 00:34:08.174
+Thank you.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6839-0
+00:34:09.074 --> 00:34:09.464
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6875-0
+00:34:09.974 --> 00:34:13.635
+So Anthony, you mentioned about
+or or I think I'm not sure it
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6875-1
+00:34:13.635 --> 00:34:17.238
+was my Mike or you, Anthony, I
+think you spoke about the the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6875-2
+00:34:17.238 --> 00:34:20.604
+data science team also has a
+similar data leak approach.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6916-0
+00:34:20.694 --> 00:34:25.356
+So just want to understand like
+is there a a need of the static
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6916-1
+00:34:25.356 --> 00:34:29.800
+data into the data science world
+as well or it's going to be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6916-2
+00:34:29.800 --> 00:34:33.224
+something in the future in the
+plan something.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6926-0
+00:34:34.514 --> 00:34:38.064
+I'm I'm not sure of the long
+term plans. There are.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6935-0
+00:34:38.074 --> 00:34:39.654
+Are you talking about statistics
+though?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6941-0
+00:34:39.694 --> 00:34:40.464
+Off the data or what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6978-0
+00:34:41.914 --> 00:34:45.143
+Yeah, you didn't mention about
+the the, the that that is some
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6978-1
+00:34:45.143 --> 00:34:48.216
+some one other team that is
+working on the data science on
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6978-2
+00:34:48.216 --> 00:34:51.341
+the similar architecture with in
+iceberg and and and and S3
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/6978-3
+00:34:51.341 --> 00:34:51.654
+right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7026-0
+00:34:51.664 --> 00:34:55.761
+So just wanted to know whether
+the thick data is also been will
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7026-1
+00:34:55.761 --> 00:34:59.603
+may be used in the future, so or
+it's it's going to be very
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7017-0
+00:34:57.734 --> 00:34:59.424
+Oh, I see. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7026-2
+00:34:59.603 --> 00:35:01.524
+unique in the use case. Sorry.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7035-0
+00:35:02.174 --> 00:35:05.004
+I think I I think it might be
+used potentially leverage.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7056-0
+00:35:05.014 --> 00:35:07.560
+I don't know how it'll be
+integrated at this point, but we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7056-1
+00:35:07.560 --> 00:35:09.934
+have a similar architecture for
+the data science team.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7067-0
+00:35:09.944 --> 00:35:12.164
+That's how we're providing them
+access to the data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7134-0
+00:35:12.174 --> 00:35:15.810
+So it's similar architecture,
+but I don't know if it'll be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7077-0
+00:35:13.104 --> 00:35:13.344
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7134-1
+00:35:15.810 --> 00:35:19.447
+using the same way because the
+data science team also does
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7134-2
+00:35:19.447 --> 00:35:23.330
+research into research and other
+things, so this might be more
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7134-3
+00:35:23.330 --> 00:35:26.843
+for general for the business use
+cases and more for like
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7134-4
+00:35:26.843 --> 00:35:29.124
+consumers using power BI or
+Tableau.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7129-0
+00:35:30.254 --> 00:35:30.644
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7132-0
+00:35:30.684 --> 00:35:31.004
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7135-0
+00:35:31.054 --> 00:35:31.334
+Thanks.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7139-0
+00:35:31.344 --> 00:35:32.004
+Thanks, Anthony.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7154-0
+00:35:32.154 --> 00:35:35.144
+And that that was one other
+point on the the demo data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7165-0
+00:35:35.154 --> 00:35:38.404
+I think, David, you mentioned
+about the demo data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7243-0
+00:35:38.414 --> 00:35:42.433
+So just to for for, for our
+clarity, it's it's the MIDI data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7243-1
+00:35:42.433 --> 00:35:46.651
+that that you are talking as a
+demo data, OK and we want to see
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7201-0
+00:35:43.044 --> 00:35:44.784
+Correct. Yep.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7243-2
+00:35:46.651 --> 00:35:50.934
+that that has given as an input
+and then see how the other plans
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7243-3
+00:35:50.934 --> 00:35:54.953
+are compare or or or equivalent
+of of those are in the other
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7243-4
+00:35:54.953 --> 00:35:58.709
+other UHC and HCSC and that's
+the comparison that we are
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7243-5
+00:35:58.709 --> 00:35:59.434
+looking at.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7271-0
+00:35:59.444 --> 00:36:02.301
+So the demo data has become the
+input and then the data from
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7271-1
+00:36:02.301 --> 00:36:04.784
+these two systems will become
+the comparison points.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7274-0
+00:36:06.074 --> 00:36:07.314
+It's I.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7303-0
+00:36:07.354 --> 00:36:10.729
+Maybe I mean the the the data
+sets themselves if we get let's
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7289-0
+00:36:08.714 --> 00:36:08.934
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7303-1
+00:36:10.729 --> 00:36:12.254
+say we get Cigna in the mix.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7316-0
+00:36:12.264 --> 00:36:16.064
+I mean, at one point I
+comparison is Cigna UHC to HCSC.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7369-0
+00:36:16.634 --> 00:36:20.270
+Ultimately, we talked the reason
+why the demo data is in the mix
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7369-1
+00:36:20.270 --> 00:36:23.795
+is if we get done with this POC,
+but we've not yet solved for,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7369-2
+00:36:23.795 --> 00:36:27.319
+how do I comingle my production
+data with this data, then I've
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7369-3
+00:36:27.319 --> 00:36:30.564
+got an interesting science
+experiment, but not much more.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7410-0
+00:36:30.794 --> 00:36:33.998
+However, if I can get the demo
+data connected to it, then as we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7381-0
+00:36:30.894 --> 00:36:31.044
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7410-1
+00:36:33.998 --> 00:36:37.101
+go out and we talk about this
+concept with customers and they
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7410-2
+00:36:37.101 --> 00:36:39.454
+go, I would love to have that
+module added in.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7445-0
+00:36:39.464 --> 00:36:42.509
+We've actually already solved
+for how I get production data,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7445-1
+00:36:42.509 --> 00:36:45.654
+but I can't just use a customers
+data, which is why I say demo
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7445-2
+00:36:45.654 --> 00:36:45.904
+data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7516-0
+00:36:47.214 --> 00:36:50.682
+So so for the demo data we would
+we just take like all of those
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7454-0
+00:36:47.374 --> 00:36:48.014
+Just clear. Thanks.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7455-0
+00:36:47.754 --> 00:36:47.984
+Got.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7516-1
+00:36:50.682 --> 00:36:54.205
+dimensions, geography provider,
+those procedure codes, whatever,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7516-2
+00:36:54.205 --> 00:36:57.457
+it just extracts of those that
+we can similarly flatten and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7516-3
+00:36:57.457 --> 00:37:00.438
+then that'll be sort of
+alongside this data maybe in a
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7516-4
+00:37:00.438 --> 00:37:03.744
+different table or something and
+then that that opens up the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7516-5
+00:37:03.744 --> 00:37:06.454
+analysis then to join those and
+look at it right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7519-0
+00:37:06.574 --> 00:37:07.404
+So I'm just.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7541-0
+00:37:07.454 --> 00:37:10.567
+I'm just thinking like we can
+come up with, even if it's just
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7541-1
+00:37:10.567 --> 00:37:12.324
+spreadsheet exports to begin
+with.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7552-0
+00:37:12.584 --> 00:37:14.214
+Hey, here's the data we wanna
+pull out.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7554-0
+00:37:14.864 --> 00:37:15.454
+Umm.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7603-0
+00:37:15.914 --> 00:37:18.975
+And then we can have a more
+elaborate way to to to do that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7603-1
+00:37:18.975 --> 00:37:22.191
+in a production environment to,
+you know, on a monthly basis,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7603-2
+00:37:22.191 --> 00:37:25.252
+whatever there's a, there's
+gonna be some pull of the data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7603-3
+00:37:25.252 --> 00:37:28.053
+from the production system, but
+it doesn't have to be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7603-4
+00:37:28.053 --> 00:37:28.624
+everything.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7620-0
+00:37:28.634 --> 00:37:31.024
+It's just the specific
+dimensions and metrics we're
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7620-1
+00:37:31.024 --> 00:37:31.944
+interested in there.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7632-0
+00:37:32.974 --> 00:37:35.104
+So I see that as part of this
+too is what?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7647-0
+00:37:35.114 --> 00:37:38.016
+What is the specific dimensions
+and measures that we're gonna
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7647-1
+00:37:38.016 --> 00:37:38.484
+pull from?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7655-0
+00:37:38.814 --> 00:37:40.894
+Does certainly doesn't have to
+be everything right?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7674-0
+00:37:40.904 --> 00:37:44.839
+Just just kind of marry it up
+with what we have from the the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7674-1
+00:37:44.839 --> 00:37:45.484
+TIF files.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7675-0
+00:37:46.344 --> 00:37:46.524
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7681-0
+00:37:46.354 --> 00:37:46.514
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7677-0
+00:37:47.514 --> 00:37:47.884
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7690-0
+00:37:47.894 --> 00:37:51.024
+And and and David, where would
+that demo data be currently?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-0
+00:37:51.034 --> 00:37:55.114
+Is it in in Madea's Vertica
+database or is it somewhere yeah
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7707-0
+00:37:53.914 --> 00:37:54.094
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-1
+00:37:55.114 --> 00:37:59.328
+OK so so that would probably be
+added to the the scope as well
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-2
+00:37:59.328 --> 00:38:03.073
+primarily because you know while
+the the first scope is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-3
+00:38:03.073 --> 00:38:06.685
+definitely to build the data
+platform, as Anthony was
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-4
+00:38:06.685 --> 00:38:10.699
+telling, the second is to be
+able to commingle the Uchc and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-5
+00:38:10.699 --> 00:38:14.578
+SIGNA files specifically for
+let's say, the three regions
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-6
+00:38:14.578 --> 00:38:18.524
+that you mentioned, New Mexico,
+Illinois and the the third
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-7
+00:38:18.524 --> 00:38:22.604
+region and and then be able to
+pick up the demo data for the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-8
+00:38:22.604 --> 00:38:26.618
+same regions and then do a
+comparison between the demo data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7817-9
+00:38:26.618 --> 00:38:29.494
+versus USC versus HHC versus
+Sigma, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7821-0
+00:38:29.504 --> 00:38:30.834
+So it did.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7824-0
+00:38:30.844 --> 00:38:31.174
+I did.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7837-0
+00:38:31.184 --> 00:38:35.294
+I kind of give an give my
+understanding of the scope.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7847-0
+00:38:35.504 --> 00:38:38.734
+Is there any mistake or is there
+anything that I missed?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7858-0
+00:38:43.364 --> 00:38:45.494
+No, I think you're right, I
+think. Uh.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7899-0
+00:38:48.554 --> 00:38:52.229
+So we need to revisit the the
+scope question because I know in
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7899-1
+00:38:52.229 --> 00:38:55.963
+the the SOW we've got a bullet
+point in there counting for this
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7899-2
+00:38:55.963 --> 00:38:58.997
+of provide comparison
+capabilities with our current
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7899-3
+00:38:58.997 --> 00:39:00.164
+media enriched data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7914-0
+00:39:00.454 --> 00:39:04.891
+So so that so it was
+contemplated in the original
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7914-1
+00:39:04.891 --> 00:39:05.424
+scope.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7927-0
+00:39:05.434 --> 00:39:07.144
+We need maybe talk through the
+how on that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7925-0
+00:39:05.894 --> 00:39:06.134
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7932-0
+00:39:08.094 --> 00:39:09.744
+Yeah, absolutely, David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7943-0
+00:39:09.754 --> 00:39:12.284
+I I don't think the technicality
+is a problem there.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7984-0
+00:39:12.294 --> 00:39:15.546
+We just need to get Vertica
+connected to the to to this
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7955-0
+00:39:12.824 --> 00:39:12.984
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7984-1
+00:39:15.546 --> 00:39:19.146
+whole data platform to be able
+to extract it, we just need to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7980-0
+00:39:17.354 --> 00:39:18.354
+Sure. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/7984-2
+00:39:19.146 --> 00:39:21.004
+add that pipeline as part of it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8047-0
+00:39:21.074 --> 00:39:24.688
+So so, Anthony, one request you
+know post this call, I will send
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8047-1
+00:39:24.688 --> 00:39:28.023
+a mom, we might want to to make
+sure that the next phase of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8047-2
+00:39:28.023 --> 00:39:31.304
+design we might want to get all
+the access to the vertical
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8047-3
+00:39:31.304 --> 00:39:34.862
+databases a little ahead of the
+curve so that we can also start
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8047-4
+00:39:34.862 --> 00:39:37.364
+analyzing the data schema of
+this demo data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8066-0
+00:39:37.494 --> 00:39:41.587
+So that we can start building
+the design for, you know, the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8066-1
+00:39:41.587 --> 00:39:43.224
+for this first use case.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8070-0
+00:39:43.234 --> 00:39:43.804
+Antony, I'll.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8083-0
+00:39:43.814 --> 00:39:46.135
+I'll probably send the note and
+we can have a discussion around
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8083-1
+00:39:46.135 --> 00:39:46.244
+it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8087-0
+00:39:46.394 --> 00:39:47.084
+Thank you, Sir. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8100-0
+00:39:53.184 --> 00:39:53.714
+Yeah, and.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8107-0
+00:39:54.384 --> 00:39:57.234
+So I do I do suspect on this on
+the tick one especially.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8129-0
+00:39:57.244 --> 00:40:00.059
+There's probably going to be a
+lot more code discovery, and I
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8129-1
+00:40:00.059 --> 00:40:02.784
+can appreciate it's like well,
+hey, we've got these things.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8167-0
+00:40:02.794 --> 00:40:06.132
+So I think having this this
+mutual working understanding of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8167-1
+00:40:06.132 --> 00:40:09.637
+you guys are gonna come across,
+you know, questions and things
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8167-2
+00:40:09.637 --> 00:40:12.976
+we need to reconcile and solve
+for and with folks we've got
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8167-3
+00:40:12.976 --> 00:40:13.254
+here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8179-0
+00:40:13.264 --> 00:40:16.474
+If we need other experts, we'll
+get them engaged.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8210-0
+00:40:16.484 --> 00:40:19.421
+But I think for this one we'll
+we'll need a little bit reliant
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8190-0
+00:40:17.434 --> 00:40:17.604
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8210-1
+00:40:19.421 --> 00:40:22.451
+upon you guys to surface up some
+of the key decisions we need to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8210-2
+00:40:22.451 --> 00:40:22.684
+make.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8258-0
+00:40:23.184 --> 00:40:27.491
+Umm, I think for the the patient
+satisfaction we've got Dave Wolf
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8258-1
+00:40:27.491 --> 00:40:31.799
+on the phone, we're a little bit
+clearer, alright and it can be a
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8258-2
+00:40:31.799 --> 00:40:35.715
+little bit more prescriptive in
+that one and that one quite
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8258-3
+00:40:35.715 --> 00:40:39.174
+frankly should be a little bit
+more straightforward.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8281-0
+00:40:39.184 --> 00:40:42.704
+It's not gonna be as much around
+normalization of disparate data
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8281-1
+00:40:42.704 --> 00:40:44.924
+sets, but rather how do we
+quickly land?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8315-0
+00:40:46.114 --> 00:40:50.092
+A known data asset that may be
+different than anything else we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8315-1
+00:40:50.092 --> 00:40:53.880
+have and get it quickly to a
+place that can manifest itself
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8315-2
+00:40:53.880 --> 00:40:54.764
+into our tool.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8312-0
+00:40:55.924 --> 00:40:56.274
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8317-0
+00:40:56.344 --> 00:40:56.694
+Got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8319-0
+00:40:56.824 --> 00:40:57.504
+Got it. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8326-0
+00:41:00.114 --> 00:41:00.294
+Right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8350-0
+00:41:01.264 --> 00:41:04.803
+So one thing that's going to be
+a challenge is I was looking at
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8350-1
+00:41:04.803 --> 00:41:06.794
+our demo data is for our demo
+site.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8355-0
+00:41:06.804 --> 00:41:09.674
+We've completely anonymized the
+provider information.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8361-0
+00:41:10.164 --> 00:41:12.254
+It's it's just basically
+nonsense.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8385-0
+00:41:12.684 --> 00:41:17.348
+It's like provider 2241, so
+we're not gonna be able to do
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8377-0
+00:41:13.914 --> 00:41:14.214
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8385-1
+00:41:17.348 --> 00:41:18.554
+much with that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8399-0
+00:41:19.684 --> 00:41:20.734
+Now we do have good.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8417-0
+00:41:20.744 --> 00:41:25.177
+I think I believe that the demo
+data just between me and you
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8417-1
+00:41:25.177 --> 00:41:28.884
+guys, it it came from some Texas
+Illinois clients.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8446-0
+00:41:28.894 --> 00:41:32.729
+So I think the geography met
+might be more accurate, but just
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8446-1
+00:41:32.729 --> 00:41:36.502
+I know I can see right away that
+we don't have real provider
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8446-2
+00:41:36.502 --> 00:41:38.914
+information available, but it
+doesn't.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8513-0
+00:41:38.924 --> 00:41:43.008
+It looks like it was sort of
+totally anonymized or made fake,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8471-0
+00:41:42.224 --> 00:41:44.574
+OK, alright. OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8513-1
+00:41:43.008 --> 00:41:46.895
+so just something to consider
+that we would might we might
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8470-0
+00:41:44.334 --> 00:41:44.714
+Got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8513-2
+00:41:46.895 --> 00:41:50.913
+need to get permission from a
+client as a as an early, early
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8542-0
+00:41:50.524 --> 00:41:55.231
+I don't, and I think with with
+some yeah, with some basics,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8513-3
+00:41:50.913 --> 00:41:52.494
+participating, you know.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8542-1
+00:41:55.231 --> 00:42:00.174
+Mike, I think we probably could
+pretty quickly get you know we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8542-2
+00:42:00.174 --> 00:42:04.882
+could probably get a AJ to bite
+on permissions to use their
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8542-3
+00:42:04.882 --> 00:42:05.274
+data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8546-0
+00:42:06.134 --> 00:42:07.724
+You know, so here's what we
+have.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8553-0
+00:42:07.734 --> 00:42:08.424
+This is our demo data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8562-0
+00:42:08.434 --> 00:42:11.064
+You can see this is our billing
+provider dimension.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8570-0
+00:42:11.334 --> 00:42:13.574
+I've sliced this across Illinois
+and Texas.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8592-0
+00:42:13.584 --> 00:42:17.467
+You can see we've got quite a
+bit of data in Texas and it
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8592-1
+00:42:17.467 --> 00:42:19.744
+shows claim and paid
+information.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8623-0
+00:42:19.934 --> 00:42:23.900
+You can see this is kind of a
+nonsense ID here I think, yeah,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8617-0
+00:42:23.084 --> 00:42:24.144
+Yeah, yeah, yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8623-1
+00:42:23.900 --> 00:42:27.674
+but this is the kind of data
+that we could extract, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-0
+00:42:27.734 --> 00:42:31.490
+Once a month or whatever and and
+and throw in the the other
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-1
+00:42:31.490 --> 00:42:35.496
+dimensions that are relevant and
+that can get land that into S3
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-2
+00:42:35.496 --> 00:42:39.502
+or wherever we're going to land
+it, you know, and we we do have
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8669-0
+00:42:37.344 --> 00:42:37.604
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-3
+00:42:39.502 --> 00:42:43.195
+ways to even do this today
+through some some connectors we
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-4
+00:42:43.195 --> 00:42:47.076
+we do web data, connectors and
+things like that that we could
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-5
+00:42:47.076 --> 00:42:51.082
+leverage short term but this is
+a way to get this data set just
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8712-6
+00:42:51.082 --> 00:42:54.024
+plugged into Tableau through a
+data connector.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8735-0
+00:42:55.054 --> 00:42:57.771
+But I think the better way is to
+get this into ask 3 land that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8735-1
+00:42:57.771 --> 00:42:58.634
+into S3 in some way.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8796-0
+00:42:59.974 --> 00:43:03.386
+Chuck, Chuck, and and Michael,
+thanks for bringing that up
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8796-1
+00:43:03.386 --> 00:43:07.088
+because one of the things that
+we also we have already done and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8796-2
+00:43:07.088 --> 00:43:10.269
+we could probably share it as
+part of our ongoing code
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8796-3
+00:43:10.269 --> 00:43:13.971
+discovery process here is even
+for the 18 key business elements
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8796-4
+00:43:13.971 --> 00:43:17.384
+that were listed as part of the
+the user story or the SOW.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8801-0
+00:43:18.114 --> 00:43:19.224
+You know, I I was.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8813-0
+00:43:19.234 --> 00:43:20.884
+I'm just alluding to what Ashok
+mentioned.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8855-0
+00:43:20.894 --> 00:43:23.890
+80% of the fields that we were
+able to match there are about
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8855-1
+00:43:23.890 --> 00:43:26.887
+20% that we were not able to
+match between the files and the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8855-2
+00:43:26.887 --> 00:43:29.834
+the requirements or the fields
+that were listed in the SOW.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8867-0
+00:43:30.284 --> 00:43:31.674
+So we want to call that out as
+well.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8904-0
+00:43:31.904 --> 00:43:35.353
+Maybe one of the things that we
+can also find in the demo data,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8904-1
+00:43:35.353 --> 00:43:38.747
+we'll extend that analysis to
+the demo data as well and to see
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8904-2
+00:43:38.747 --> 00:43:42.034
+how much of matches there right
+away when when you mentioned
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8904-3
+00:43:42.034 --> 00:43:42.304
+that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8927-0
+00:43:43.894 --> 00:43:46.719
+The region wise mapping may not
+always be there for all the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8927-1
+00:43:46.719 --> 00:43:47.944
+regions that we specified.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8930-0
+00:43:47.994 --> 00:43:48.344
+We will.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8952-0
+00:43:48.354 --> 00:43:50.714
+We will also figure that out and
+add that as part of our
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8952-1
+00:43:50.714 --> 00:43:51.584
+analysis, uh Michael.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8957-0
+00:43:51.574 --> 00:43:54.104
+OK, because here's the other way
+we could slice this.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8970-0
+00:43:54.114 --> 00:43:57.524
+This is the same view, but I
+just put this primary CPT.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8990-0
+00:43:57.534 --> 00:44:00.683
+I don't know if this is the same
+level of what we have in the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8990-1
+00:44:00.683 --> 00:44:02.004
+other files, but we could.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/8997-0
+00:44:02.014 --> 00:44:02.944
+We're happy to share.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9037-0
+00:44:02.954 --> 00:44:06.883
+We could you find the the kind
+of matching up dimensions and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9037-1
+00:44:06.883 --> 00:44:10.684
+see and provide some Excel
+exports or whatever it might be
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9037-2
+00:44:10.684 --> 00:44:14.226
+just to so you could sort of see
+and there's codes and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9037-3
+00:44:14.226 --> 00:44:15.064
+descriptions.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9069-0
+00:44:15.074 --> 00:44:18.786
+Maybe it's just the code that we
+have or I don't know how that
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9069-1
+00:44:18.786 --> 00:44:22.203
+data looks, but we can share
+what's what's in in our demo
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9069-2
+00:44:22.203 --> 00:44:23.794
+data at this level as well.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9101-0
+00:44:24.664 --> 00:44:28.516
+So and I don't know what what
+measures we're looking for, if
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9084-0
+00:44:25.914 --> 00:44:26.314
+Got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9101-1
+00:44:28.516 --> 00:44:32.495
+it's claims you know, number of
+claims paid amount, what other
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9101-2
+00:44:32.495 --> 00:44:33.064
+measures.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9112-0
+00:44:33.074 --> 00:44:35.224
+But we can we can marry up the
+measures as well.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9124-0
+00:44:35.294 --> 00:44:37.974
+We have a bunch of different
+measures that we can see.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9132-0
+00:44:37.984 --> 00:44:40.454
+We have dozens and dozens of
+different measures available.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9136-0
+00:44:44.914 --> 00:44:45.344
+Got it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9138-0
+00:44:45.394 --> 00:44:46.664
+OK. Thanks.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9168-0
+00:44:57.604 --> 00:44:58.214
+So.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9171-0
+00:44:58.284 --> 00:45:02.483
+So David, I I know we are on the
+top of the hour, but I I I feel
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9162-0
+00:45:00.614 --> 00:45:00.774
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9171-1
+00:45:02.483 --> 00:45:04.744
+much better than where we
+started.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9185-0
+00:45:04.754 --> 00:45:07.274
+So thanks for all the guidance
+and inputs.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9184-0
+00:45:05.564 --> 00:45:05.754
+Yes.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9201-0
+00:45:07.744 --> 00:45:10.534
+So I I I would like to just
+quickly summarize.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9230-0
+00:45:10.864 --> 00:45:15.494
+The takeaway is for for kanini
+in terms of where we are when it
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9230-1
+00:45:15.494 --> 00:45:19.690
+comes to the tick files, I'll
+also send a follow up email
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9230-2
+00:45:19.690 --> 00:45:20.414
+around it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9250-0
+00:45:20.934 --> 00:45:25.241
+So one of the the first thing is
+to be able to pick up HCSC and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9250-1
+00:45:25.241 --> 00:45:25.914
+UHC files.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9262-0
+00:45:25.924 --> 00:45:27.324
+That's what we have access to
+right now.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9299-0
+00:45:27.784 --> 00:45:32.207
+Specifically, focus on Nevada,
+Illinois, three regions that you
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9299-1
+00:45:32.207 --> 00:45:36.769
+mentioned, David, and be able to
+first make sure that we are able
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9299-2
+00:45:36.769 --> 00:45:40.708
+to combine these two datasets
+and and and do the initial
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9299-3
+00:45:40.708 --> 00:45:41.814
+analysis, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9312-0
+00:45:41.824 --> 00:45:44.914
+So that is going to be the scope
+of this discovery.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9335-0
+00:45:45.484 --> 00:45:48.538
+We'll add that as part of the
+scope of this particular
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9335-1
+00:45:48.538 --> 00:45:49.094
+discovery.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9359-0
+00:45:49.104 --> 00:45:52.614
+For this use case and also on
+the on the dashboards and the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9359-1
+00:45:52.614 --> 00:45:56.065
+reporting like you rightly
+called out in the SOW, whatever
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9359-2
+00:45:56.065 --> 00:45:58.054
+we have listed, we will add
+that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9368-0
+00:45:58.064 --> 00:45:59.154
+So that is also part of the
+scope.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9392-0
+00:45:59.554 --> 00:46:02.550
+The 18 columns that you
+mentioned are going to be the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9392-1
+00:46:02.550 --> 00:46:05.491
+ones that we are going to
+extract from each of these
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9392-2
+00:46:05.491 --> 00:46:05.824
+files.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9439-0
+00:46:06.554 --> 00:46:10.313
+We will also add the demo data
+that Michael was just showing as
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9439-1
+00:46:10.313 --> 00:46:13.897
+part of the scope to make sure
+that now we'll have H UHC the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9439-2
+00:46:13.897 --> 00:46:17.715
+demo data and once we get access
+to signal files, you know Sigma
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9439-3
+00:46:17.715 --> 00:46:19.184
+will also be added right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9465-0
+00:46:19.194 --> 00:46:21.324
+So I'll add that as part of the
+scope, but Sigma files is
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9465-1
+00:46:21.324 --> 00:46:22.904
+something that we still don't
+have access.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9500-0
+00:46:22.914 --> 00:46:26.575
+So we are trying to bring in a
+resource in the US and associate
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9473-0
+00:46:23.354 --> 00:46:23.504
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9500-1
+00:46:26.575 --> 00:46:30.179
+in the US so that he can access
+the signal files and then mask
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9500-2
+00:46:30.179 --> 00:46:31.724
+the data and give it to us.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9514-0
+00:46:30.894 --> 00:46:31.074
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9504-0
+00:46:31.734 --> 00:46:31.904
+Right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9524-0
+00:46:31.914 --> 00:46:33.054
+So that could be something that
+we could.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9538-0
+00:46:31.914 --> 00:46:35.526
+We'll also be if, if we know
+we're narrowing the geography to
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9538-1
+00:46:35.526 --> 00:46:38.964
+human, our to Illinois and
+Texas, we can also look to see.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9552-0
+00:46:39.824 --> 00:46:42.974
+Umm, you know, there's some
+other options we could look at.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9567-0
+00:46:42.984 --> 00:46:47.054
+Aetna we could look at, you
+know, some other regional plans.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9589-0
+00:46:47.064 --> 00:46:50.652
+So it we're not wed to Cigna,
+Cigna was just one that we knew
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9589-1
+00:46:50.652 --> 00:46:52.794
+would have a pretty robust data
+set.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9606-0
+00:46:52.984 --> 00:46:56.449
+So there may be a couple of
+other options for sources of
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9599-0
+00:46:53.274 --> 00:46:53.454
+But.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9606-1
+00:46:56.449 --> 00:46:56.814
+files.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9614-0
+00:46:56.824 --> 00:46:58.614
+If we can't get the signal one
+resolved.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9616-0
+00:46:59.574 --> 00:47:00.724
+Absolutely. Absolutely.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9642-0
+00:47:00.974 --> 00:47:04.208
+I I think the modest, apparently
+of whatever we are going to do
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9642-1
+00:47:04.208 --> 00:47:06.584
+with each of these files is kind
+of clear now.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9654-0
+00:47:06.694 --> 00:47:08.944
+So the the files themselves
+might be different.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9661-0
+00:47:08.954 --> 00:47:10.744
+Like you said, we could probably
+accommodate that.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9697-0
+00:47:10.834 --> 00:47:14.688
+So we will, we will create a
+verbiage in our discovery phase
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9697-1
+00:47:14.688 --> 00:47:16.204
+pause this use use case.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9731-0
+00:47:16.214 --> 00:47:19.411
+What we are going to do, we'll
+share it with the forum here and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9731-1
+00:47:19.411 --> 00:47:22.459
+maybe in tomorrow's session,
+I'll very quickly walk through,
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9731-2
+00:47:22.459 --> 00:47:25.556
+take 5 minutes about what we are
+planning to do as part of an
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9731-3
+00:47:25.556 --> 00:47:28.804
+outcome for this discovery, for
+this particular use case, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9744-0
+00:47:28.814 --> 00:47:31.574
+And and then we'll take it
+forward from there.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9758-0
+00:47:31.644 --> 00:47:35.614
+And and and Anthony, I'll shoot
+out an email for access for the
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9758-1
+00:47:35.614 --> 00:47:36.234
+demo data.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9761-0
+00:47:36.284 --> 00:47:37.214
+Anthony, right.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9789-0
+00:47:37.224 --> 00:47:40.559
+Like if we are able to pull in
+whatever format CSV format, put
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9789-1
+00:47:40.559 --> 00:47:43.154
+that in S3, we can start
+exploring that quickly.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9791-0
+00:47:44.634 --> 00:47:45.474
+OK, sounds good. Thanks.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9793-0
+00:47:46.444 --> 00:47:46.664
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9806-0
+00:47:47.864 --> 00:47:50.194
+Yeah, David, did anything else
+that I had missed at?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9807-0
+00:47:49.764 --> 00:47:50.734
+No, I'm good.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9813-0
+00:47:53.514 --> 00:47:54.014
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9823-0
+00:47:54.134 --> 00:47:54.974
+Some sounds good.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9838-0
+00:47:54.624 --> 00:47:58.774
+Any any inputs from anyone else
+David shape Michael.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9832-0
+00:47:58.344 --> 00:47:59.094
+No, I'm good.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9854-0
+00:47:59.104 --> 00:48:02.070
+I think I think it was really
+good because the right path and
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9853-0
+00:48:01.724 --> 00:48:01.904
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9854-1
+00:48:02.070 --> 00:48:03.554
+then we get some defined scope.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9863-0
+00:48:08.474 --> 00:48:08.694
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9865-0
+00:48:08.784 --> 00:48:08.984
+Here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9882-0
+00:48:09.774 --> 00:48:13.024
+Ashok, Deepika, any other points
+that we have to so we've got our
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9882-1
+00:48:13.024 --> 00:48:13.664
+task cut out.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9895-0
+00:48:13.674 --> 00:48:16.454
+So we'll we'll work on that and
+create the documentation around
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9895-1
+00:48:16.454 --> 00:48:16.584
+it.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9903-0
+00:48:16.594 --> 00:48:17.784
+Send it across to the forum
+here.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9906-0
+00:48:17.914 --> 00:48:18.424
+Anything else?
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9917-0
+00:48:20.814 --> 00:48:23.224
+No, I think I think we covered
+everything up.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9921-0
+00:48:25.134 --> 00:48:26.944
+Sure, David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9925-0
+00:48:26.994 --> 00:48:28.504
+Team David David.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9941-0
+00:48:28.514 --> 00:48:32.124
+Michael Anthony and David, thank
+you so much for your time.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9948-0
+00:48:32.454 --> 00:48:32.694
+Doesn't.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9954-0
+00:48:32.734 --> 00:48:35.204
+Really, really glad lot of
+guidance and inputs.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9951-0
+00:48:32.954 --> 00:48:33.274
+Thank you.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9970-0
+00:48:35.674 --> 00:48:36.324
+Talk to you tomorrow.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9972-0
+00:48:36.964 --> 00:48:37.174
+Sure.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9976-0
+00:48:37.444 --> 00:48:37.974
+That's good. Thanks.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9979-0
+00:48:37.534 --> 00:48:38.474
+Sorry, thanks.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9982-0
+00:48:37.554 --> 00:48:38.814
+Thanks. But.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9985-0
+00:48:38.344 --> 00:48:38.644
+It's not.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9990-0
+00:48:38.724 --> 00:48:39.454
+OK, bye.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9983-0
+00:48:39.024 --> 00:48:39.324
+Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9992-0
+00:48:40.004 --> 00:48:40.354
+Bye, bye.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/9998-0
+00:48:40.654 --> 00:48:43.304
+Thank you all. Yeah.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/10009-0
+00:49:02.844 --> 00:49:03.464
+OK.
+
+e88747dc-0b91-4639-a8b6-6b8799eef318/10011-0
+00:49:04.574 --> 00:49:05.264
+Yeah, yeah.
