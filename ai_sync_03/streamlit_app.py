@@ -159,7 +159,7 @@ if st.button("Proceed"):
         
 
 
-question = st.text_input("Ask your question 👇")
+question = st.text_input("Ask Your Question 👇")
 # Display the user input
 if st.button("Doc chat"):
     if question:
