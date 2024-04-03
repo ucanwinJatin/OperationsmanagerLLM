@@ -76,7 +76,7 @@ if uploaded_file is not None:
 
 selected_feature = st.selectbox(
     "Select a feature",
-    ("Summary", "KDD", "User story","Sentiment analysis","emotion analysis","commitment analysis","wsr","raid log")
+    ("Summary", "Decision Analysis", "User Story","Sentiment analysis","Emotion Analysis","Commitment Analysis","Status Report","Risk Analysis log")
 )
 
 # Proceed with selected feature
