@@ -48,7 +48,7 @@ upload_folder = "uploads"
 os.makedirs(upload_folder, exist_ok=True)
 
 # Step 1: File upload
-uploaded_file = st.file_uploader("Upload a file", type=["vtt", "txt", "docx","pdf","mp3"])
+uploaded_file = st.file_uploader("Upload a file", type=["vtt", "txt", "docx","pdf"])
 
 # Save the uploaded file to the upload folder
 if uploaded_file is not None:
