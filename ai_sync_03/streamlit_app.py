@@ -36,9 +36,9 @@ import torch
 #     print(m.name)
 
 # Create a folder if it doesn't exist
-GOOGLE_API_KEY="AIzaSyCruOjusCfgSYI7CMsr_7u_uFq8JMR9RtQ"
+GOOGLE_API_KEY="AIzaSyAwRfn1nNERd5-2zfrtdkPGUieBcA1_S84"
 
-model = ChatGoogleGenerativeAI(model="gemini-1.0-pro",google_api_key=GOOGLE_API_KEY,
+model = ChatGoogleGenerativeAI(model="gemini-1.5-pro",google_api_key=GOOGLE_API_KEY,
                              temperature=0.5,convert_system_message_to_human=True)
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001",google_api_key=GOOGLE_API_KEY)
 
